@@ -1,0 +1,785 @@
+fileFormatVersion: 2
+guid: c5115505a2fb36e45a07722f31948dbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8400666930275358908
+    second: PlayerPokemon_0_0
+  - first:
+      213: 4993226594509833351
+    second: PlayerPokemon_1_0
+  - first:
+      213: 7048129928637262562
+    second: PlayerPokemon_2_0
+  - first:
+      213: 7516422622391158220
+    second: PlayerPokemon_2_0
+  - first:
+      213: -3890689904617806395
+    second: PlayerPokemon_2_0
+  - first:
+      213: -8353188357313986311
+    second: PlayerPokemon_5_0
+  - first:
+      213: 6484284472386293688
+    second: PlayerPokemon_2_0
+  - first:
+      213: 4390597658982007013
+    second: PlayerPokemon_5_0
+  - first:
+      213: 941965825337052807
+    second: PlayerPokemon_8_0
+  - first:
+      213: -3632977402508959839
+    second: PlayerPokemon_9_0
+  - first:
+      213: 2963256492890100909
+    second: PlayerPokemon_10_0
+  - first:
+      213: -1452927212848182275
+    second: PlayerPokemon_11_0
+  - first:
+      213: -4001522578041120310
+    second: PlayerPokemon_0_1
+  - first:
+      213: -4462047080088462409
+    second: PlayerPokemon_1_1
+  - first:
+      213: 3508455957479046863
+    second: PlayerPokemon_2_1
+  - first:
+      213: -8173641066841682578
+    second: PlayerPokemon_3_1
+  - first:
+      213: -1650790234425640406
+    second: PlayerPokemon_4_1
+  - first:
+      213: 7276836694792168229
+    second: PlayerPokemon_5_1
+  - first:
+      213: -5785560245374756225
+    second: PlayerPokemon_6_1
+  - first:
+      213: 7393084747902922372
+    second: PlayerPokemon_7_1
+  - first:
+      213: 8737308249349290700
+    second: PlayerPokemon_8_1
+  - first:
+      213: -1647071324661184651
+    second: PlayerPokemon_9_1
+  - first:
+      213: 5663807015069241668
+    second: PlayerPokemon_10_1
+  - first:
+      213: 1044392426168446073
+    second: PlayerPokemon_11_1
+  - first:
+      213: 1620109868126696676
+    second: PlayerPokemon_24
+  - first:
+      213: -2426326134739000598
+    second: PlayerPokemon_25
+  - first:
+      213: -8474738823138349073
+    second: PlayerPokemon_26
+  - first:
+      213: 4624960622369043021
+    second: PlayerPokemon_27
+  - first:
+      213: -3319123123079597782
+    second: PlayerPokemon_28
+  - first:
+      213: -8460273099495053647
+    second: PlayerPokemon_29
+  - first:
+      213: -6196285247636560514
+    second: PlayerPokemon_30
+  - first:
+      213: 54381147029690727
+    second: PlayerPokemon_31
+  - first:
+      213: -8595144040969661726
+    second: PlayerPokemon_32
+  - first:
+      213: 151432323782392021
+    second: PlayerPokemon_33
+  - first:
+      213: 8730784912924162716
+    second: PlayerPokemon_34
+  - first:
+      213: 8966829129366824102
+    second: PlayerPokemon_0_0
+  - first:
+      213: -1612449846944356105
+    second: PlayerPokemon_1_0
+  - first:
+      213: 5634063958582917607
+    second: PlayerPokemon_2_0
+  - first:
+      213: 6958424215506449577
+    second: PlayerPokemon_3_0
+  - first:
+      213: 8252998475034270118
+    second: PlayerPokemon_4_0
+  - first:
+      213: -3813014324486887000
+    second: PlayerPokemon_5_0
+  - first:
+      213: 1752640162110342682
+    second: PlayerPokemon_6_0
+  - first:
+      213: -5073166297082880533
+    second: PlayerPokemon_7_0
+  - first:
+      213: 4459364308085888493
+    second: PlayerPokemon_8_0
+  - first:
+      213: 8060565733753672163
+    second: PlayerPokemon_9_0
+  - first:
+      213: -8897774495355916452
+    second: PlayerPokemon_10_0
+  - first:
+      213: -1738306000965549124
+    second: PlayerPokemon_11_0
+  - first:
+      213: 7516422622391158220
+    second: PlayerPokemon_3_0
+  - first:
+      213: -3890689904617806395
+    second: PlayerPokemon_4_0
+  - first:
+      213: 6484284472386293688
+    second: PlayerPokemon_6_0
+  - first:
+      213: 4390597658982007013
+    second: PlayerPokemon_7_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerPokemon_0_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e889b593907c70800000000000000
+      internalID: 8966829129366824102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_1_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 107
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8afb6486d6f99e0800000000000000
+      internalID: -1612449846944356105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_2_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 107
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e97a2dd157303e40800000000000000
+      internalID: 5634063958582917607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_3_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 74
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4fcb9e4f9419060800000000000000
+      internalID: 6958424215506449577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_4_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 75
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a91244036a888270800000000000000
+      internalID: 8252998475034270118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_5_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 75
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ab719ca3751bc0800000000000000
+      internalID: -3813014324486887000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a168ba901f0a25810800000000000000
+      internalID: 1752640162110342682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_7_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 43
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed14efa12e7899b0800000000000000
+      internalID: -5073166297082880533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_8_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d3832638d2ed30800000000000000
+      internalID: 4459364308085888493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_9_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d21104d1ecdf60800000000000000
+      internalID: 8060565733753672163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_10_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 11
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fa7c82d31c48480800000000000000
+      internalID: -8897774495355916452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_11_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 11
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c48de6eb40e7e0800000000000000
+      internalID: -1738306000965549124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_0_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9572f8a6cb778c0800000000000000
+      internalID: -4001522578041120310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_1_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb124452df9312c0800000000000000
+      internalID: -4462047080088462409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_2_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 96
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce34afca1a80b030800000000000000
+      internalID: 3508455957479046863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_3_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d4b5961c4619e80800000000000000
+      internalID: -8173641066841682578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_4_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a306e27073719e0800000000000000
+      internalID: -1650790234425640406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_5_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5236d996b648cf460800000000000000
+      internalID: 7276836694792168229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_6_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad0db2c9f85bfa0800000000000000
+      internalID: -5785560245374756225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_7_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eac117863899660800000000000000
+      internalID: 7393084747902922372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_8_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccafd8f7f87214970800000000000000
+      internalID: 8737308249349290700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_9_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57786d55b5d6429e0800000000000000
+      internalID: -1647071324661184651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_10_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4415199d872e99e40800000000000000
+      internalID: 5663807015069241668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerPokemon_11_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce0efc06d6e7e00800000000000000
+      internalID: 1044392426168446073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

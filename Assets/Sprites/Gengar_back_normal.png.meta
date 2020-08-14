@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: c27640c6fad751c42b11e55eeefb4235
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6337653756989237927
+    second: Gengar_back_normal_0
+  - first:
+      213: -6934880093410346457
+    second: Gengar_back_normal_1
+  - first:
+      213: -7634227432990088699
+    second: Gengar_back_normal_2
+  - first:
+      213: 5873492462575030700
+    second: Gengar_back_normal_3
+  - first:
+      213: -6724658071458580330
+    second: Gengar_back_normal_4
+  - first:
+      213: 4401331570205718677
+    second: Gengar_back_normal_5
+  - first:
+      213: -6320565501190822633
+    second: Gengar_back_normal_6
+  - first:
+      213: -5648575094179547535
+    second: Gengar_back_normal_7
+  - first:
+      213: -4113367627295278520
+    second: Gengar_back_normal_8
+  - first:
+      213: -819722499437157345
+    second: Gengar_back_normal_9
+  - first:
+      213: -2285857746729710954
+    second: Gengar_back_normal_10
+  - first:
+      213: 1374706889130777162
+    second: Gengar_back_normal_11
+  - first:
+      213: 7548054958375269520
+    second: Gengar_back_normal_12
+  - first:
+      213: -2655666804730235835
+    second: Gengar_back_normal_13
+  - first:
+      213: -1723521965642501842
+    second: Gengar_back_normal_14
+  - first:
+      213: 7269631471910501252
+    second: Gengar_back_normal_15
+  - first:
+      213: 7839540057365209589
+    second: Gengar_back_normal_16
+  - first:
+      213: 562573866470826678
+    second: Gengar_back_normal_17
+  - first:
+      213: -382754991613982616
+    second: Gengar_back_normal_18
+  - first:
+      213: -2184681661021349544
+    second: Gengar_back_normal_19
+  - first:
+      213: 3425127459157655098
+    second: Gengar_back_normal_20
+  - first:
+      213: -463664498497772670
+    second: Gengar_back_normal_21
+  - first:
+      213: -2852097578330322793
+    second: Gengar_back_normal_22
+  - first:
+      213: -6894576672818841772
+    second: Gengar_back_normal_23
+  - first:
+      213: -6070300531205495407
+    second: Gengar_back_normal_24
+  - first:
+      213: -1704192807519852705
+    second: Gengar_back_normal_25
+  - first:
+      213: -1719645028751398954
+    second: Gengar_back_normal_26
+  - first:
+      213: -3097049247624380363
+    second: Gengar_back_normal_27
+  - first:
+      213: -6171482751055425000
+    second: Gengar_back_normal_28
+  - first:
+      213: -7396691339241375458
+    second: Gengar_back_normal_29
+  - first:
+      213: 6838369328910489092
+    second: Gengar_back_normal_30
+  - first:
+      213: 2685288016188536271
+    second: Gengar_back_normal_31
+  - first:
+      213: 3841688574525990500
+    second: Gengar_back_normal_32
+  - first:
+      213: -9005051656265381264
+    second: Gengar_back_normal_33
+  - first:
+      213: -5052186313062341486
+    second: Gengar_back_normal_34
+  - first:
+      213: 8368186558743154939
+    second: Gengar_back_normal_35
+  - first:
+      213: -6132470149538409667
+    second: Gengar_back_normal_36
+  - first:
+      213: -2049110002638762947
+    second: Gengar_back_normal_37
+  - first:
+      213: 6200581799942598997
+    second: Gengar_back_normal_38
+  - first:
+      213: 8501502297581733306
+    second: Gengar_back_normal_39
+  - first:
+      213: 4855066727863752143
+    second: Gengar_back_normal_40
+  - first:
+      213: -626066060916336665
+    second: Gengar_back_normal_41
+  - first:
+      213: 1624794987322154452
+    second: Gengar_back_normal_42
+  - first:
+      213: -3965318689876307071
+    second: Gengar_back_normal_43
+  - first:
+      213: 3481363485975075362
+    second: Gengar_back_normal_44
+  - first:
+      213: 305392787929387979
+    second: Gengar_back_normal_45
+  - first:
+      213: -8795680091511532221
+    second: Gengar_back_normal_46
+  - first:
+      213: 8314826161923993673
+    second: Gengar_back_normal_47
+  - first:
+      213: -6009629175486664069
+    second: Gengar_back_normal_48
+  - first:
+      213: -5164130515956342244
+    second: Gengar_back_normal_49
+  - first:
+      213: 3919423677998795611
+    second: Gengar_back_normal_50
+  - first:
+      213: -4691964049093855058
+    second: Gengar_back_normal_51
+  - first:
+      213: 5053086614670156751
+    second: Gengar_back_normal_52
+  - first:
+      213: -9037242712719796468
+    second: Gengar_back_normal_53
+  - first:
+      213: -6943225241099318368
+    second: Gengar_back_normal_54
+  - first:
+      213: -7676798031707497873
+    second: Gengar_back_normal_55
+  - first:
+      213: -7386855623020764707
+    second: Gengar_back_normal_56
+  - first:
+      213: 5825742306604964734
+    second: Gengar_back_normal_57
+  - first:
+      213: 8364322164196350600
+    second: Gengar_back_normal_58
+  - first:
+      213: -5268872761968155743
+    second: Gengar_back_normal_59
+  - first:
+      213: 6464489799412975284
+    second: Gengar_back_normal_60
+  - first:
+      213: 1311560866383615133
+    second: Gengar_back_normal_61
+  - first:
+      213: -1766728865941557756
+    second: Gengar_back_normal_62
+  - first:
+      213: 6126536908891675573
+    second: Gengar_back_normal_63
+  - first:
+      213: 5063249686193667121
+    second: Gengar_back_normal_64
+  - first:
+      213: -5508815693534691154
+    second: Gengar_back_normal_65
+  - first:
+      213: -1261197920982810786
+    second: Gengar_back_normal_66
+  - first:
+      213: -1436628997713315897
+    second: Gengar_back_normal_67
+  - first:
+      213: -5718882722049998814
+    second: Gengar_back_normal_68
+  - first:
+      213: 728453548707595406
+    second: Gengar_back_normal_69
+  - first:
+      213: 3583932848858877079
+    second: Gengar_back_normal_70
+  - first:
+      213: 4666282096791883051
+    second: Gengar_back_normal_71
+  - first:
+      213: 3833787661067340523
+    second: Gengar_back_normal_72
+  - first:
+      213: -7899832325382773787
+    second: Gengar_back_normal_73
+  - first:
+      213: -4487293811965312247
+    second: Gengar_back_normal_74
+  - first:
+      213: -8293687701375084099
+    second: Gengar_back_normal_75
+  - first:
+      213: -4978571231719916751
+    second: Gengar_back_normal_76
+  - first:
+      213: 2199709550409244477
+    second: Gengar_back_normal_77
+  - first:
+      213: 6357066549971191537
+    second: Gengar_back_normal_78
+  - first:
+      213: 7643202172311126666
+    second: Gengar_back_normal_79
+  - first:
+      213: 3636778428764410157
+    second: Gengar_back_normal_80
+  - first:
+      213: -6942930955432762223
+    second: Gengar_back_normal_81
+  - first:
+      213: 6845716774684011629
+    second: Gengar_back_normal_82
+  - first:
+      213: -7891268915492192103
+    second: Gengar_back_normal_83
+  - first:
+      213: -8940532534238398039
+    second: Gengar_back_normal_84
+  - first:
+      213: -7957427073841035736
+    second: Gengar_back_normal_85
+  - first:
+      213: -1962508856521968553
+    second: Gengar_back_normal_86
+  - first:
+      213: 4579632614914810994
+    second: Gengar_back_normal_87
+  - first:
+      213: 3081637195965762921
+    second: Gengar_back_normal_88
+  - first:
+      213: -5336398723932485332
+    second: Gengar_back_normal_89
+  - first:
+      213: 4474644979904670149
+    second: Gengar_back_normal_90
+  - first:
+      213: -3376798221189675260
+    second: Gengar_back_normal_91
+  - first:
+      213: 5606673570234186190
+    second: Gengar_back_normal_92
+  - first:
+      213: 6609615271861770465
+    second: Gengar_back_normal_93
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gengar_back_normal_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 147
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa63ce738ed3f750800000000000000
+      internalID: 6337653756989237927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_normal_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 147
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a39503c4b52cf90800000000000000
+      internalID: -6934880093410346457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_normal_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 147
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502651af896cd0690800000000000000
+      internalID: -7634227432990088699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_normal_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 147
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca118be8646d28150800000000000000
+      internalID: 5873492462575030700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_normal_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 147
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6987fbedc173da2a0800000000000000
+      internalID: -6724658071458580330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_normal_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 147
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598f2dc6ebba41d30800000000000000
+      internalID: 4401331570205718677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_normal_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 147
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715aee91a27d848a0800000000000000
+      internalID: -6320565501190822633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_normal_7
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 147
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1763f4811ea3c91b0800000000000000
+      internalID: -5648575094179547535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_normal_8
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 147
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a3970cfe16ae6c0800000000000000
+      internalID: -4113367627295278520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_normal_9
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 147
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1427a6dab2cf94f0800000000000000
+      internalID: -819722499437157345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_normal_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ac9178d700740e0800000000000000
+      internalID: -2285857746729710954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_normal_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 50
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1ce4d1a0f31310800000000000000
+      internalID: 1374706889130777162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_normal_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 50
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094751b4ef310c860800000000000000
+      internalID: 7548054958375269520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

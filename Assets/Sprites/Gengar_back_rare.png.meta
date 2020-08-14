@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: b960ae25c6bca5241a49e98475da2bd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4687484412788945670
+    second: Gengar_back_rare_0
+  - first:
+      213: -7630751304991228958
+    second: Gengar_back_rare_1
+  - first:
+      213: -6218219721574718561
+    second: Gengar_back_rare_2
+  - first:
+      213: 8373049108878101862
+    second: Gengar_back_rare_3
+  - first:
+      213: 5418953802920990547
+    second: Gengar_back_rare_4
+  - first:
+      213: 3376574346366386821
+    second: Gengar_back_rare_5
+  - first:
+      213: -537930952529297552
+    second: Gengar_back_rare_6
+  - first:
+      213: -4334237521296388382
+    second: Gengar_back_rare_7
+  - first:
+      213: 3610208574575441316
+    second: Gengar_back_rare_8
+  - first:
+      213: -5263503627067007034
+    second: Gengar_back_rare_9
+  - first:
+      213: 4084511850986127787
+    second: Gengar_back_rare_10
+  - first:
+      213: 5729149544437501385
+    second: Gengar_back_rare_11
+  - first:
+      213: 499089546903551007
+    second: Gengar_back_rare_12
+  - first:
+      213: -8134472426119182031
+    second: Gengar_back_rare_13
+  - first:
+      213: 361848294506242960
+    second: Gengar_back_rare_14
+  - first:
+      213: -8205904260794589159
+    second: Gengar_back_rare_15
+  - first:
+      213: 4197315163006731765
+    second: Gengar_back_rare_16
+  - first:
+      213: -200724379191216784
+    second: Gengar_back_rare_17
+  - first:
+      213: -1615994274342029578
+    second: Gengar_back_rare_18
+  - first:
+      213: 8517653125781987291
+    second: Gengar_back_rare_19
+  - first:
+      213: -3326480343157543161
+    second: Gengar_back_rare_20
+  - first:
+      213: -5772233834552773515
+    second: Gengar_back_rare_21
+  - first:
+      213: -477769947236381480
+    second: Gengar_back_rare_22
+  - first:
+      213: -1942184066549519061
+    second: Gengar_back_rare_23
+  - first:
+      213: -1280152256227475180
+    second: Gengar_back_rare_24
+  - first:
+      213: 4442283150716384402
+    second: Gengar_back_rare_25
+  - first:
+      213: 8912864413189654537
+    second: Gengar_back_rare_26
+  - first:
+      213: 3152901587063209412
+    second: Gengar_back_rare_27
+  - first:
+      213: -3717645490748273587
+    second: Gengar_back_rare_28
+  - first:
+      213: 2501829228627957346
+    second: Gengar_back_rare_29
+  - first:
+      213: 2214681980415941811
+    second: Gengar_back_rare_30
+  - first:
+      213: 5625301019319184057
+    second: Gengar_back_rare_0
+  - first:
+      213: 6302588260190411041
+    second: Gengar_back_rare_1
+  - first:
+      213: -1877212601361410372
+    second: Gengar_back_rare_2
+  - first:
+      213: 6163176303945980286
+    second: Gengar_back_rare_3
+  - first:
+      213: 6619744242458469437
+    second: Gengar_back_rare_4
+  - first:
+      213: 483057561818234131
+    second: Gengar_back_rare_5
+  - first:
+      213: 7128103472929226276
+    second: Gengar_back_rare_6
+  - first:
+      213: 1672129133775845126
+    second: Gengar_back_rare_7
+  - first:
+      213: -3230952995763478485
+    second: Gengar_back_rare_8
+  - first:
+      213: 5312228275106598582
+    second: Gengar_back_rare_9
+  - first:
+      213: -2984890060142250132
+    second: Gengar_back_rare_10
+  - first:
+      213: 8457087140149434822
+    second: Gengar_back_rare_11
+  - first:
+      213: -4211240439578251994
+    second: Gengar_back_rare_12
+  - first:
+      213: -4266999449485566720
+    second: Gengar_back_rare_13
+  - first:
+      213: -457902959725761353
+    second: Gengar_back_rare_14
+  - first:
+      213: 858181332224108155
+    second: Gengar_back_rare_15
+  - first:
+      213: -2067484678634119968
+    second: Gengar_back_rare_16
+  - first:
+      213: -5502707644819678674
+    second: Gengar_back_rare_17
+  - first:
+      213: -1098346682589188659
+    second: Gengar_back_rare_18
+  - first:
+      213: 5754732393725428324
+    second: Gengar_back_rare_19
+  - first:
+      213: -1851963806940765214
+    second: Gengar_back_rare_20
+  - first:
+      213: -1586199830332087506
+    second: Gengar_back_rare_21
+  - first:
+      213: -8622395805519429754
+    second: Gengar_back_rare_22
+  - first:
+      213: 3201412093820481602
+    second: Gengar_back_rare_23
+  - first:
+      213: -7263777779582654068
+    second: Gengar_back_rare_24
+  - first:
+      213: -1691082748212971769
+    second: Gengar_back_rare_25
+  - first:
+      213: 2682042531409919975
+    second: Gengar_back_rare_26
+  - first:
+      213: -7555243395240683338
+    second: Gengar_back_rare_27
+  - first:
+      213: 8321243510892203218
+    second: Gengar_back_rare_28
+  - first:
+      213: 4367829552939642800
+    second: Gengar_back_rare_29
+  - first:
+      213: 2164499145621224778
+    second: Gengar_back_rare_30
+  - first:
+      213: -3270768862608114079
+    second: Gengar_back_rare_31
+  - first:
+      213: 8565830114392405459
+    second: Gengar_back_rare_32
+  - first:
+      213: -1151431462664823336
+    second: Gengar_back_rare_33
+  - first:
+      213: -8851495027495085551
+    second: Gengar_back_rare_34
+  - first:
+      213: -8028003912961951196
+    second: Gengar_back_rare_35
+  - first:
+      213: -8085438634409139250
+    second: Gengar_back_rare_36
+  - first:
+      213: -110378756703212223
+    second: Gengar_back_rare_37
+  - first:
+      213: -7944553478616218536
+    second: Gengar_back_rare_38
+  - first:
+      213: -4016439546329033158
+    second: Gengar_back_rare_39
+  - first:
+      213: 1326407332960821499
+    second: Gengar_back_rare_40
+  - first:
+      213: 4969212198988004082
+    second: Gengar_back_rare_41
+  - first:
+      213: -6122963426389986792
+    second: Gengar_back_rare_42
+  - first:
+      213: -1947603086441158273
+    second: Gengar_back_rare_43
+  - first:
+      213: -8570596336060923568
+    second: Gengar_back_rare_44
+  - first:
+      213: -1088563881039835924
+    second: Gengar_back_rare_45
+  - first:
+      213: 1974040995812983706
+    second: Gengar_back_rare_46
+  - first:
+      213: 3045215856302879555
+    second: Gengar_back_rare_47
+  - first:
+      213: -8017993776197949799
+    second: Gengar_back_rare_48
+  - first:
+      213: 8378669539255748098
+    second: Gengar_back_rare_49
+  - first:
+      213: 7425635701109498885
+    second: Gengar_back_rare_50
+  - first:
+      213: 5201003575958143802
+    second: Gengar_back_rare_51
+  - first:
+      213: -666638727026494963
+    second: Gengar_back_rare_52
+  - first:
+      213: 3338215893009196925
+    second: Gengar_back_rare_53
+  - first:
+      213: 1949329934528148385
+    second: Gengar_back_rare_54
+  - first:
+      213: 8535644544152737551
+    second: Gengar_back_rare_55
+  - first:
+      213: 2280083612791049244
+    second: Gengar_back_rare_56
+  - first:
+      213: -1408978718859259897
+    second: Gengar_back_rare_57
+  - first:
+      213: -7554792221265159796
+    second: Gengar_back_rare_58
+  - first:
+      213: -4146741011589735031
+    second: Gengar_back_rare_59
+  - first:
+      213: -4288142431782848537
+    second: Gengar_back_rare_60
+  - first:
+      213: -5237607595542359081
+    second: Gengar_back_rare_61
+  - first:
+      213: -1262547689826432569
+    second: Gengar_back_rare_62
+  - first:
+      213: -9065639356227671348
+    second: Gengar_back_rare_63
+  - first:
+      213: 7034064194085011178
+    second: Gengar_back_rare_64
+  - first:
+      213: -3529133763736460570
+    second: Gengar_back_rare_65
+  - first:
+      213: 276039316394476302
+    second: Gengar_back_rare_66
+  - first:
+      213: -7690934690265891327
+    second: Gengar_back_rare_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gengar_back_rare_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa9231975111e40800000000000000
+      internalID: 5625301019319184057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129523e41aa477750800000000000000
+      internalID: 6302588260190411041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb657ffb51dc2f5e0800000000000000
+      internalID: -1877212601361410372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e791eccc130088550800000000000000
+      internalID: 6163176303945980286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34acabc05e0edb50800000000000000
+      internalID: 6619744242458469437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dfd3a0b4a24b600800000000000000
+      internalID: 483057561818234131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_6
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ebc22a75c1ce260800000000000000
+      internalID: 7128103472929226276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_7
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6077a4d7698943710800000000000000
+      internalID: 1672129133775845126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_8
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20a8816e595923d0800000000000000
+      internalID: -3230952995763478485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_9
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 306
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec3878873d8b940800000000000000
+      internalID: 5312228275106598582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9912742fb9d5570800000000000000
+      internalID: 8457087140149434822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dad2fd12bae85c0800000000000000
+      internalID: -4211240439578251994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d10a4bb9298c4c0800000000000000
+      internalID: -4266999449485566720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc22f72fa335a9f0800000000000000
+      internalID: -457902959725761353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76e614ff5fd8eb00800000000000000
+      internalID: 858181332224108155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec537783a1de43e0800000000000000
+      internalID: -2067484678634119968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_17
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a52b73d8472a3b0800000000000000
+      internalID: -5502707644819678674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_18
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdea00f283e1c0f0800000000000000
+      internalID: -1098346682589188659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46200794f9aecdf40800000000000000
+      internalID: 5754732393725428324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_20
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e36a6ecab08c46e0800000000000000
+      internalID: -1851963806940765214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f3233c2b8175880800000000000000
+      internalID: -8622395805519429754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403fc76653bd6c20800000000000000
+      internalID: 3201412093820481602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89a9983890e13b90800000000000000
+      internalID: -7263777779582654068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70779f243311888e0800000000000000
+      internalID: -1691082748212971769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef7d25e877883520800000000000000
+      internalID: 2682042531409919975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_27
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b810135922662790800000000000000
+      internalID: -7555243395240683338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_28
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc0144a2eefa7370800000000000000
+      internalID: 8321243510892203218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfab6e26d5ad9c30800000000000000
+      internalID: 4367829552939642800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_30
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4db3634188d90e10800000000000000
+      internalID: 2164499145621224778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_31
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eb5d97c05eb92d0800000000000000
+      internalID: -3270768862608114079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_back_rare_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd97ac6f2b4500f0800000000000000
+      internalID: -1151431462664823336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

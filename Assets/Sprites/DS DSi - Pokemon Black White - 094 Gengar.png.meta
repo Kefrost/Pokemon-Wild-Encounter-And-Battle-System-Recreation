@@ -1,0 +1,3908 @@
+fileFormatVersion: 2
+guid: 2c88a5dec047ee849966eec222099c99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -931825766997080114
+    second: DS DSi - Pokemon Black White - 094 Gengar_0
+  - first:
+      213: 553214410502806713
+    second: DS DSi - Pokemon Black White - 094 Gengar_1
+  - first:
+      213: -22590037639550122
+    second: DS DSi - Pokemon Black White - 094 Gengar_2
+  - first:
+      213: 859411699609813179
+    second: DS DSi - Pokemon Black White - 094 Gengar_3
+  - first:
+      213: 1871340907936442236
+    second: DS DSi - Pokemon Black White - 094 Gengar_4
+  - first:
+      213: -453195141273218347
+    second: DS DSi - Pokemon Black White - 094 Gengar_5
+  - first:
+      213: 4588083782818373568
+    second: DS DSi - Pokemon Black White - 094 Gengar_6
+  - first:
+      213: -1641720051055710509
+    second: DS DSi - Pokemon Black White - 094 Gengar_7
+  - first:
+      213: 7473799106745113042
+    second: DS DSi - Pokemon Black White - 094 Gengar_8
+  - first:
+      213: -4864512231412984141
+    second: DS DSi - Pokemon Black White - 094 Gengar_9
+  - first:
+      213: -3517665123432386852
+    second: DS DSi - Pokemon Black White - 094 Gengar_10
+  - first:
+      213: -8415543516093262469
+    second: DS DSi - Pokemon Black White - 094 Gengar_11
+  - first:
+      213: 789849375393532683
+    second: DS DSi - Pokemon Black White - 094 Gengar_12
+  - first:
+      213: 5866293374954504711
+    second: DS DSi - Pokemon Black White - 094 Gengar_13
+  - first:
+      213: -1472861823825134211
+    second: DS DSi - Pokemon Black White - 094 Gengar_14
+  - first:
+      213: -4512898818692965433
+    second: DS DSi - Pokemon Black White - 094 Gengar_15
+  - first:
+      213: -982263150173000607
+    second: DS DSi - Pokemon Black White - 094 Gengar_16
+  - first:
+      213: 5281495659156890025
+    second: DS DSi - Pokemon Black White - 094 Gengar_17
+  - first:
+      213: -7209423503666729991
+    second: DS DSi - Pokemon Black White - 094 Gengar_18
+  - first:
+      213: -3977906013729187616
+    second: DS DSi - Pokemon Black White - 094 Gengar_19
+  - first:
+      213: 1653262248725304785
+    second: DS DSi - Pokemon Black White - 094 Gengar_20
+  - first:
+      213: 4274049273274788752
+    second: DS DSi - Pokemon Black White - 094 Gengar_21
+  - first:
+      213: -3128150086940969224
+    second: DS DSi - Pokemon Black White - 094 Gengar_22
+  - first:
+      213: 5004259430210235186
+    second: DS DSi - Pokemon Black White - 094 Gengar_23
+  - first:
+      213: 1190311496416695160
+    second: DS DSi - Pokemon Black White - 094 Gengar_24
+  - first:
+      213: -6838908119305379360
+    second: DS DSi - Pokemon Black White - 094 Gengar_25
+  - first:
+      213: 2705067447915824715
+    second: DS DSi - Pokemon Black White - 094 Gengar_26
+  - first:
+      213: 4535635019685601918
+    second: DS DSi - Pokemon Black White - 094 Gengar_27
+  - first:
+      213: -2946009344319192512
+    second: DS DSi - Pokemon Black White - 094 Gengar_28
+  - first:
+      213: 5036552917783614200
+    second: DS DSi - Pokemon Black White - 094 Gengar_29
+  - first:
+      213: 383177836715217825
+    second: DS DSi - Pokemon Black White - 094 Gengar_30
+  - first:
+      213: 1095227452898224298
+    second: DS DSi - Pokemon Black White - 094 Gengar_31
+  - first:
+      213: -3824563709103543949
+    second: DS DSi - Pokemon Black White - 094 Gengar_32
+  - first:
+      213: -6800879860091988708
+    second: DS DSi - Pokemon Black White - 094 Gengar_33
+  - first:
+      213: 2125340663924059500
+    second: DS DSi - Pokemon Black White - 094 Gengar_34
+  - first:
+      213: 275414139803620033
+    second: DS DSi - Pokemon Black White - 094 Gengar_35
+  - first:
+      213: -5222427757295291460
+    second: DS DSi - Pokemon Black White - 094 Gengar_36
+  - first:
+      213: -6873596791706517857
+    second: DS DSi - Pokemon Black White - 094 Gengar_37
+  - first:
+      213: 9157583486959645470
+    second: DS DSi - Pokemon Black White - 094 Gengar_38
+  - first:
+      213: 5683600965656991433
+    second: DS DSi - Pokemon Black White - 094 Gengar_39
+  - first:
+      213: 6335442917622788943
+    second: DS DSi - Pokemon Black White - 094 Gengar_40
+  - first:
+      213: 1821591025103578388
+    second: DS DSi - Pokemon Black White - 094 Gengar_41
+  - first:
+      213: -1816416637817240179
+    second: DS DSi - Pokemon Black White - 094 Gengar_42
+  - first:
+      213: 6640209465814404960
+    second: DS DSi - Pokemon Black White - 094 Gengar_43
+  - first:
+      213: 8195418503509093379
+    second: DS DSi - Pokemon Black White - 094 Gengar_44
+  - first:
+      213: -5275518330517929737
+    second: DS DSi - Pokemon Black White - 094 Gengar_45
+  - first:
+      213: -3931351126985391122
+    second: DS DSi - Pokemon Black White - 094 Gengar_46
+  - first:
+      213: 3166456697193192549
+    second: DS DSi - Pokemon Black White - 094 Gengar_47
+  - first:
+      213: 8175213301777847315
+    second: DS DSi - Pokemon Black White - 094 Gengar_48
+  - first:
+      213: -1862839607457459891
+    second: DS DSi - Pokemon Black White - 094 Gengar_49
+  - first:
+      213: -383624918481132743
+    second: DS DSi - Pokemon Black White - 094 Gengar_50
+  - first:
+      213: 1282656207182306005
+    second: DS DSi - Pokemon Black White - 094 Gengar_51
+  - first:
+      213: -2630559472370291542
+    second: DS DSi - Pokemon Black White - 094 Gengar_52
+  - first:
+      213: 3851748463926135240
+    second: DS DSi - Pokemon Black White - 094 Gengar_53
+  - first:
+      213: 5574478770461093513
+    second: DS DSi - Pokemon Black White - 094 Gengar_54
+  - first:
+      213: -3534725733759953475
+    second: DS DSi - Pokemon Black White - 094 Gengar_55
+  - first:
+      213: 8375838621927819681
+    second: DS DSi - Pokemon Black White - 094 Gengar_56
+  - first:
+      213: -2354401336067771769
+    second: DS DSi - Pokemon Black White - 094 Gengar_57
+  - first:
+      213: 6344199337764750974
+    second: DS DSi - Pokemon Black White - 094 Gengar_58
+  - first:
+      213: 1344068857554877028
+    second: DS DSi - Pokemon Black White - 094 Gengar_59
+  - first:
+      213: 401999062944884346
+    second: DS DSi - Pokemon Black White - 094 Gengar_60
+  - first:
+      213: -1992275238920331013
+    second: DS DSi - Pokemon Black White - 094 Gengar_61
+  - first:
+      213: -908320848440959175
+    second: DS DSi - Pokemon Black White - 094 Gengar_62
+  - first:
+      213: -5306939099183814740
+    second: DS DSi - Pokemon Black White - 094 Gengar_63
+  - first:
+      213: -8761594325618103919
+    second: DS DSi - Pokemon Black White - 094 Gengar_64
+  - first:
+      213: 1478024748097706557
+    second: DS DSi - Pokemon Black White - 094 Gengar_65
+  - first:
+      213: -613267204648571830
+    second: DS DSi - Pokemon Black White - 094 Gengar_66
+  - first:
+      213: -9140120013292183366
+    second: DS DSi - Pokemon Black White - 094 Gengar_67
+  - first:
+      213: 3742390508245954190
+    second: DS DSi - Pokemon Black White - 094 Gengar_68
+  - first:
+      213: -7077542499250423586
+    second: DS DSi - Pokemon Black White - 094 Gengar_69
+  - first:
+      213: 3694252669872791712
+    second: DS DSi - Pokemon Black White - 094 Gengar_70
+  - first:
+      213: -6284568726525932965
+    second: DS DSi - Pokemon Black White - 094 Gengar_71
+  - first:
+      213: -7192022100663464182
+    second: DS DSi - Pokemon Black White - 094 Gengar_72
+  - first:
+      213: -5025618027548105400
+    second: DS DSi - Pokemon Black White - 094 Gengar_73
+  - first:
+      213: 4035598213093079838
+    second: DS DSi - Pokemon Black White - 094 Gengar_74
+  - first:
+      213: -5147873803275405442
+    second: DS DSi - Pokemon Black White - 094 Gengar_75
+  - first:
+      213: -6885436846514531327
+    second: DS DSi - Pokemon Black White - 094 Gengar_76
+  - first:
+      213: 1524957595549716106
+    second: DS DSi - Pokemon Black White - 094 Gengar_77
+  - first:
+      213: 1564241283827442603
+    second: DS DSi - Pokemon Black White - 094 Gengar_78
+  - first:
+      213: 1843951197984275389
+    second: DS DSi - Pokemon Black White - 094 Gengar_79
+  - first:
+      213: -2675221409506437300
+    second: DS DSi - Pokemon Black White - 094 Gengar_80
+  - first:
+      213: -981990513603177454
+    second: DS DSi - Pokemon Black White - 094 Gengar_81
+  - first:
+      213: -43281554216507455
+    second: DS DSi - Pokemon Black White - 094 Gengar_82
+  - first:
+      213: -4288586788079496644
+    second: DS DSi - Pokemon Black White - 094 Gengar_83
+  - first:
+      213: -2687212763878066035
+    second: DS DSi - Pokemon Black White - 094 Gengar_84
+  - first:
+      213: 4925925653702454950
+    second: DS DSi - Pokemon Black White - 094 Gengar_85
+  - first:
+      213: -2630290367460680031
+    second: DS DSi - Pokemon Black White - 094 Gengar_86
+  - first:
+      213: -1883484752079083697
+    second: DS DSi - Pokemon Black White - 094 Gengar_87
+  - first:
+      213: 8512949731295721672
+    second: DS DSi - Pokemon Black White - 094 Gengar_88
+  - first:
+      213: -749815413073358963
+    second: DS DSi - Pokemon Black White - 094 Gengar_89
+  - first:
+      213: 3371635250964056143
+    second: DS DSi - Pokemon Black White - 094 Gengar_90
+  - first:
+      213: 6593234744946305316
+    second: DS DSi - Pokemon Black White - 094 Gengar_91
+  - first:
+      213: -3266884741035541765
+    second: DS DSi - Pokemon Black White - 094 Gengar_92
+  - first:
+      213: 4181441797359568796
+    second: DS DSi - Pokemon Black White - 094 Gengar_93
+  - first:
+      213: 9158606897187324239
+    second: DS DSi - Pokemon Black White - 094 Gengar_94
+  - first:
+      213: 1491557256748922328
+    second: DS DSi - Pokemon Black White - 094 Gengar_95
+  - first:
+      213: -3253723208277107595
+    second: DS DSi - Pokemon Black White - 094 Gengar_96
+  - first:
+      213: 3436518958313762656
+    second: DS DSi - Pokemon Black White - 094 Gengar_97
+  - first:
+      213: -190569082438636075
+    second: DS DSi - Pokemon Black White - 094 Gengar_98
+  - first:
+      213: 2136620065493492038
+    second: DS DSi - Pokemon Black White - 094 Gengar_99
+  - first:
+      213: -2213733867005938634
+    second: DS DSi - Pokemon Black White - 094 Gengar_100
+  - first:
+      213: -1139314926716376927
+    second: DS DSi - Pokemon Black White - 094 Gengar_101
+  - first:
+      213: 2592900390151282806
+    second: DS DSi - Pokemon Black White - 094 Gengar_102
+  - first:
+      213: 486304008038716646
+    second: DS DSi - Pokemon Black White - 094 Gengar_103
+  - first:
+      213: 2608203247096870963
+    second: DS DSi - Pokemon Black White - 094 Gengar_104
+  - first:
+      213: 3287034982241165114
+    second: DS DSi - Pokemon Black White - 094 Gengar_105
+  - first:
+      213: -5856602111577421962
+    second: DS DSi - Pokemon Black White - 094 Gengar_106
+  - first:
+      213: 8606438170758051628
+    second: DS DSi - Pokemon Black White - 094 Gengar_107
+  - first:
+      213: 7653731340287911796
+    second: DS DSi - Pokemon Black White - 094 Gengar_108
+  - first:
+      213: -8534589089131903796
+    second: DS DSi - Pokemon Black White - 094 Gengar_109
+  - first:
+      213: -1404779652859541945
+    second: DS DSi - Pokemon Black White - 094 Gengar_110
+  - first:
+      213: -3898610309395337051
+    second: DS DSi - Pokemon Black White - 094 Gengar_111
+  - first:
+      213: -6605193126531448852
+    second: DS DSi - Pokemon Black White - 094 Gengar_112
+  - first:
+      213: -4197738715001224558
+    second: DS DSi - Pokemon Black White - 094 Gengar_113
+  - first:
+      213: -7334387453370298797
+    second: DS DSi - Pokemon Black White - 094 Gengar_114
+  - first:
+      213: -1808982603254804354
+    second: DS DSi - Pokemon Black White - 094 Gengar_115
+  - first:
+      213: -3486372578028610971
+    second: DS DSi - Pokemon Black White - 094 Gengar_116
+  - first:
+      213: 1511256761104941029
+    second: DS DSi - Pokemon Black White - 094 Gengar_117
+  - first:
+      213: 2080395449338083603
+    second: DS DSi - Pokemon Black White - 094 Gengar_118
+  - first:
+      213: 492777757165254690
+    second: DS DSi - Pokemon Black White - 094 Gengar_119
+  - first:
+      213: -5242939842026526289
+    second: DS DSi - Pokemon Black White - 094 Gengar_120
+  - first:
+      213: 8272319659119957563
+    second: DS DSi - Pokemon Black White - 094 Gengar_121
+  - first:
+      213: -8159838065740445755
+    second: DS DSi - Pokemon Black White - 094 Gengar_122
+  - first:
+      213: 1560015979824523842
+    second: DS DSi - Pokemon Black White - 094 Gengar_123
+  - first:
+      213: -3513711322358576557
+    second: DS DSi - Pokemon Black White - 094 Gengar_124
+  - first:
+      213: 6985423274411357173
+    second: DS DSi - Pokemon Black White - 094 Gengar_125
+  - first:
+      213: 7444450382573944444
+    second: DS DSi - Pokemon Black White - 094 Gengar_126
+  - first:
+      213: 4248982450973518253
+    second: DS DSi - Pokemon Black White - 094 Gengar_127
+  - first:
+      213: 359799889300338631
+    second: DS DSi - Pokemon Black White - 094 Gengar_128
+  - first:
+      213: -6018728593352719945
+    second: DS DSi - Pokemon Black White - 094 Gengar_129
+  - first:
+      213: -8798070162315067291
+    second: DS DSi - Pokemon Black White - 094 Gengar_130
+  - first:
+      213: 4880352037491141340
+    second: DS DSi - Pokemon Black White - 094 Gengar_131
+  - first:
+      213: 1282137631428775680
+    second: DS DSi - Pokemon Black White - 094 Gengar_132
+  - first:
+      213: -3527047378577259609
+    second: DS DSi - Pokemon Black White - 094 Gengar_133
+  - first:
+      213: -84171560368071762
+    second: DS DSi - Pokemon Black White - 094 Gengar_134
+  - first:
+      213: -6965411298903445186
+    second: DS DSi - Pokemon Black White - 094 Gengar_135
+  - first:
+      213: -6663900200299612472
+    second: DS DSi - Pokemon Black White - 094 Gengar_136
+  - first:
+      213: -2384332452212738897
+    second: DS DSi - Pokemon Black White - 094 Gengar_137
+  - first:
+      213: -8402715107306957211
+    second: DS DSi - Pokemon Black White - 094 Gengar_138
+  - first:
+      213: -4423281027663139251
+    second: DS DSi - Pokemon Black White - 094 Gengar_139
+  - first:
+      213: 6624397227349375936
+    second: DS DSi - Pokemon Black White - 094 Gengar_140
+  - first:
+      213: -2446618312290223776
+    second: DS DSi - Pokemon Black White - 094 Gengar_141
+  - first:
+      213: -8108246432912107144
+    second: DS DSi - Pokemon Black White - 094 Gengar_142
+  - first:
+      213: 7270111917318110322
+    second: DS DSi - Pokemon Black White - 094 Gengar_143
+  - first:
+      213: 514592740186818716
+    second: DS DSi - Pokemon Black White - 094 Gengar_144
+  - first:
+      213: 2688748101505570374
+    second: DS DSi - Pokemon Black White - 094 Gengar_145
+  - first:
+      213: 1720892235373635851
+    second: DS DSi - Pokemon Black White - 094 Gengar_146
+  - first:
+      213: 7711370488213023895
+    second: DS DSi - Pokemon Black White - 094 Gengar_147
+  - first:
+      213: -1415952986683229854
+    second: DS DSi - Pokemon Black White - 094 Gengar_148
+  - first:
+      213: -3921450512941027381
+    second: DS DSi - Pokemon Black White - 094 Gengar_149
+  - first:
+      213: 8740777278570599693
+    second: DS DSi - Pokemon Black White - 094 Gengar_150
+  - first:
+      213: 3191221927438435727
+    second: DS DSi - Pokemon Black White - 094 Gengar_151
+  - first:
+      213: 3085108594750332641
+    second: DS DSi - Pokemon Black White - 094 Gengar_152
+  - first:
+      213: 6065118413813202660
+    second: DS DSi - Pokemon Black White - 094 Gengar_153
+  - first:
+      213: 8416005665170791314
+    second: DS DSi - Pokemon Black White - 094 Gengar_154
+  - first:
+      213: -8388774229767231971
+    second: DS DSi - Pokemon Black White - 094 Gengar_155
+  - first:
+      213: 7674292876384614196
+    second: DS DSi - Pokemon Black White - 094 Gengar_156
+  - first:
+      213: -1029491891546534810
+    second: DS DSi - Pokemon Black White - 094 Gengar_157
+  - first:
+      213: 4054548664821898778
+    second: DS DSi - Pokemon Black White - 094 Gengar_158
+  - first:
+      213: 806115647646850662
+    second: DS DSi - Pokemon Black White - 094 Gengar_159
+  - first:
+      213: 668744045933088076
+    second: DS DSi - Pokemon Black White - 094 Gengar_160
+  - first:
+      213: 2392923323978303366
+    second: DS DSi - Pokemon Black White - 094 Gengar_161
+  - first:
+      213: 4270267420221082295
+    second: DS DSi - Pokemon Black White - 094 Gengar_162
+  - first:
+      213: -2559257343250671348
+    second: DS DSi - Pokemon Black White - 094 Gengar_163
+  - first:
+      213: -5106654346497188777
+    second: DS DSi - Pokemon Black White - 094 Gengar_164
+  - first:
+      213: -5786095748394746374
+    second: DS DSi - Pokemon Black White - 094 Gengar_165
+  - first:
+      213: -7230273482009566080
+    second: DS DSi - Pokemon Black White - 094 Gengar_166
+  - first:
+      213: -3437067290434176889
+    second: DS DSi - Pokemon Black White - 094 Gengar_167
+  - first:
+      213: -49680487963342764
+    second: DS DSi - Pokemon Black White - 094 Gengar_168
+  - first:
+      213: 4543959053650400999
+    second: DS DSi - Pokemon Black White - 094 Gengar_169
+  - first:
+      213: -8272308601871335240
+    second: DS DSi - Pokemon Black White - 094 Gengar_170
+  - first:
+      213: -5185848904360393648
+    second: DS DSi - Pokemon Black White - 094 Gengar_171
+  - first:
+      213: 6725571675568923444
+    second: DS DSi - Pokemon Black White - 094 Gengar_172
+  - first:
+      213: -3110953902545900201
+    second: DS DSi - Pokemon Black White - 094 Gengar_173
+  - first:
+      213: 3928192196801737101
+    second: DS DSi - Pokemon Black White - 094 Gengar_174
+  - first:
+      213: 6755847099288984036
+    second: DS DSi - Pokemon Black White - 094 Gengar_175
+  - first:
+      213: -5061932273436587977
+    second: DS DSi - Pokemon Black White - 094 Gengar_176
+  - first:
+      213: -8173982818944656508
+    second: DS DSi - Pokemon Black White - 094 Gengar_177
+  - first:
+      213: -5240513263149368675
+    second: DS DSi - Pokemon Black White - 094 Gengar_178
+  - first:
+      213: 6449917729952817622
+    second: DS DSi - Pokemon Black White - 094 Gengar_179
+  - first:
+      213: -2900351112238219161
+    second: DS DSi - Pokemon Black White - 094 Gengar_180
+  - first:
+      213: 2828306778202482186
+    second: DS DSi - Pokemon Black White - 094 Gengar_181
+  - first:
+      213: 1786973214529979192
+    second: DS DSi - Pokemon Black White - 094 Gengar_182
+  - first:
+      213: 1621851285728463227
+    second: DS DSi - Pokemon Black White - 094 Gengar_183
+  - first:
+      213: -5942083743432942595
+    second: DS DSi - Pokemon Black White - 094 Gengar_184
+  - first:
+      213: 8979416352559122948
+    second: DS DSi - Pokemon Black White - 094 Gengar_185
+  - first:
+      213: 4063714958018922896
+    second: DS DSi - Pokemon Black White - 094 Gengar_186
+  - first:
+      213: -2241380629651755432
+    second: DS DSi - Pokemon Black White - 094 Gengar_187
+  - first:
+      213: 6108214137366994812
+    second: DS DSi - Pokemon Black White - 094 Gengar_188
+  - first:
+      213: -8853228695612245426
+    second: DS DSi - Pokemon Black White - 094 Gengar_189
+  - first:
+      213: -9027025991747488138
+    second: DS DSi - Pokemon Black White - 094 Gengar_190
+  - first:
+      213: -2932287370831442667
+    second: DS DSi - Pokemon Black White - 094 Gengar_191
+  - first:
+      213: 5901082061598014906
+    second: DS DSi - Pokemon Black White - 094 Gengar_192
+  - first:
+      213: -8401255364634464163
+    second: DS DSi - Pokemon Black White - 094 Gengar_193
+  - first:
+      213: 6160651766009289244
+    second: DS DSi - Pokemon Black White - 094 Gengar_194
+  - first:
+      213: 4320987314429845155
+    second: DS DSi - Pokemon Black White - 094 Gengar_195
+  - first:
+      213: -8119424681749531303
+    second: DS DSi - Pokemon Black White - 094 Gengar_196
+  - first:
+      213: 1210128728345749921
+    second: DS DSi - Pokemon Black White - 094 Gengar_197
+  - first:
+      213: -7228177151099551743
+    second: DS DSi - Pokemon Black White - 094 Gengar_198
+  - first:
+      213: -6404685763123882851
+    second: DS DSi - Pokemon Black White - 094 Gengar_199
+  - first:
+      213: 917100664784329323
+    second: DS DSi - Pokemon Black White - 094 Gengar_200
+  - first:
+      213: -877006065165909783
+    second: DS DSi - Pokemon Black White - 094 Gengar_201
+  - first:
+      213: 8526571646696105953
+    second: DS DSi - Pokemon Black White - 094 Gengar_202
+  - first:
+      213: -7267404465857547851
+    second: DS DSi - Pokemon Black White - 094 Gengar_203
+  - first:
+      213: -7742685611517473992
+    second: DS DSi - Pokemon Black White - 094 Gengar_204
+  - first:
+      213: -7299729795626064203
+    second: DS DSi - Pokemon Black White - 094 Gengar_205
+  - first:
+      213: -6992117646306791475
+    second: DS DSi - Pokemon Black White - 094 Gengar_206
+  - first:
+      213: 2188152341264296213
+    second: DS DSi - Pokemon Black White - 094 Gengar_207
+  - first:
+      213: 2125066749163882590
+    second: DS DSi - Pokemon Black White - 094 Gengar_208
+  - first:
+      213: -1460387974977893282
+    second: DS DSi - Pokemon Black White - 094 Gengar_209
+  - first:
+      213: 6005716037024648956
+    second: DS DSi - Pokemon Black White - 094 Gengar_210
+  - first:
+      213: 3056636379200288911
+    second: DS DSi - Pokemon Black White - 094 Gengar_211
+  - first:
+      213: -2215946567190501927
+    second: DS DSi - Pokemon Black White - 094 Gengar_212
+  - first:
+      213: 2509363758516379818
+    second: DS DSi - Pokemon Black White - 094 Gengar_213
+  - first:
+      213: 3602171508204105589
+    second: DS DSi - Pokemon Black White - 094 Gengar_214
+  - first:
+      213: 8065543297222499398
+    second: DS DSi - Pokemon Black White - 094 Gengar_215
+  - first:
+      213: -6291925210611735578
+    second: DS DSi - Pokemon Black White - 094 Gengar_216
+  - first:
+      213: 212794594915254224
+    second: DS DSi - Pokemon Black White - 094 Gengar_217
+  - first:
+      213: -3274305944263206398
+    second: DS DSi - Pokemon Black White - 094 Gengar_218
+  - first:
+      213: 7080543203667874254
+    second: DS DSi - Pokemon Black White - 094 Gengar_219
+  - first:
+      213: -1704237891262163611
+    second: DS DSi - Pokemon Black White - 094 Gengar_220
+  - first:
+      213: -5504360615467861531
+    second: DS DSi - Pokemon Black White - 094 Gengar_221
+  - first:
+      213: 2951173604666592918
+    second: DS DSi - Pokemon Black White - 094 Gengar_222
+  - first:
+      213: -8047270192420715586
+    second: DS DSi - Pokemon Black White - 094 Gengar_223
+  - first:
+      213: 3001450172040329699
+    second: DS DSi - Pokemon Black White - 094 Gengar_224
+  - first:
+      213: -2225436484343602925
+    second: DS DSi - Pokemon Black White - 094 Gengar_225
+  - first:
+      213: 6595751427836847208
+    second: DS DSi - Pokemon Black White - 094 Gengar_226
+  - first:
+      213: 1122419066985094119
+    second: DS DSi - Pokemon Black White - 094 Gengar_227
+  - first:
+      213: 4321968970222449712
+    second: DS DSi - Pokemon Black White - 094 Gengar_228
+  - first:
+      213: 3208958201689741251
+    second: DS DSi - Pokemon Black White - 094 Gengar_229
+  - first:
+      213: 6341223302857413444
+    second: DS DSi - Pokemon Black White - 094 Gengar_230
+  - first:
+      213: -4939862424417203341
+    second: DS DSi - Pokemon Black White - 094 Gengar_231
+  - first:
+      213: 669739521483083323
+    second: DS DSi - Pokemon Black White - 094 Gengar_232
+  - first:
+      213: -5914509788926989169
+    second: DS DSi - Pokemon Black White - 094 Gengar_233
+  - first:
+      213: 4098283515758669873
+    second: DS DSi - Pokemon Black White - 094 Gengar_234
+  - first:
+      213: 7321502584427093214
+    second: DS DSi - Pokemon Black White - 094 Gengar_235
+  - first:
+      213: 9018267564951712231
+    second: DS DSi - Pokemon Black White - 094 Gengar_236
+  - first:
+      213: 8201879990063005897
+    second: DS DSi - Pokemon Black White - 094 Gengar_237
+  - first:
+      213: 4282445214047645921
+    second: DS DSi - Pokemon Black White - 094 Gengar_238
+  - first:
+      213: -7492559035991589078
+    second: DS DSi - Pokemon Black White - 094 Gengar_239
+  - first:
+      213: -3717653342017881525
+    second: DS DSi - Pokemon Black White - 094 Gengar_240
+  - first:
+      213: -113402999882038696
+    second: DS DSi - Pokemon Black White - 094 Gengar_241
+  - first:
+      213: -2393391679876154021
+    second: DS DSi - Pokemon Black White - 094 Gengar_242
+  - first:
+      213: 7756116020756677968
+    second: DS DSi - Pokemon Black White - 094 Gengar_243
+  - first:
+      213: -2759206521391132993
+    second: DS DSi - Pokemon Black White - 094 Gengar_244
+  - first:
+      213: -7229099188859886854
+    second: DS DSi - Pokemon Black White - 094 Gengar_245
+  - first:
+      213: 4559245052336522620
+    second: DS DSi - Pokemon Black White - 094 Gengar_246
+  - first:
+      213: -3240215435050207389
+    second: DS DSi - Pokemon Black White - 094 Gengar_247
+  - first:
+      213: 8680175983244800141
+    second: DS DSi - Pokemon Black White - 094 Gengar_248
+  - first:
+      213: -5010150084182553468
+    second: DS DSi - Pokemon Black White - 094 Gengar_249
+  - first:
+      213: -5117413702250578513
+    second: DS DSi - Pokemon Black White - 094 Gengar_250
+  - first:
+      213: 5237111921523950667
+    second: DS DSi - Pokemon Black White - 094 Gengar_251
+  - first:
+      213: 3237114100503007306
+    second: DS DSi - Pokemon Black White - 094 Gengar_252
+  - first:
+      213: 3602992079847458131
+    second: DS DSi - Pokemon Black White - 094 Gengar_253
+  - first:
+      213: 8512712549502269732
+    second: DS DSi - Pokemon Black White - 094 Gengar_254
+  - first:
+      213: 231880301754170815
+    second: DS DSi - Pokemon Black White - 094 Gengar_255
+  - first:
+      213: -2414909792935835368
+    second: DS DSi - Pokemon Black White - 094 Gengar_256
+  - first:
+      213: 6893255940751063805
+    second: DS DSi - Pokemon Black White - 094 Gengar_257
+  - first:
+      213: -6843004502876612369
+    second: DS DSi - Pokemon Black White - 094 Gengar_258
+  - first:
+      213: 7865513605303298169
+    second: DS DSi - Pokemon Black White - 094 Gengar_259
+  - first:
+      213: -2529849994761794025
+    second: DS DSi - Pokemon Black White - 094 Gengar_260
+  - first:
+      213: -8169712082223433666
+    second: DS DSi - Pokemon Black White - 094 Gengar_261
+  - first:
+      213: -49860909957882983
+    second: DS DSi - Pokemon Black White - 094 Gengar_262
+  - first:
+      213: 751481145142452977
+    second: DS DSi - Pokemon Black White - 094 Gengar_263
+  - first:
+      213: 2857801543746602953
+    second: DS DSi - Pokemon Black White - 094 Gengar_264
+  - first:
+      213: 1559198896464104474
+    second: DS DSi - Pokemon Black White - 094 Gengar_265
+  - first:
+      213: -4550515444470902841
+    second: DS DSi - Pokemon Black White - 094 Gengar_266
+  - first:
+      213: 7312844679180754157
+    second: DS DSi - Pokemon Black White - 094 Gengar_267
+  - first:
+      213: 5525640660580476544
+    second: DS DSi - Pokemon Black White - 094 Gengar_268
+  - first:
+      213: -1485221755755626515
+    second: DS DSi - Pokemon Black White - 094 Gengar_269
+  - first:
+      213: -4817077424463917403
+    second: DS DSi - Pokemon Black White - 094 Gengar_270
+  - first:
+      213: -7998230771567253050
+    second: DS DSi - Pokemon Black White - 094 Gengar_271
+  - first:
+      213: -8091191657467837985
+    second: DS DSi - Pokemon Black White - 094 Gengar_272
+  - first:
+      213: 8130227439113279865
+    second: DS DSi - Pokemon Black White - 094 Gengar_273
+  - first:
+      213: -477434186049690329
+    second: DS DSi - Pokemon Black White - 094 Gengar_274
+  - first:
+      213: -7058941413713945903
+    second: DS DSi - Pokemon Black White - 094 Gengar_275
+  - first:
+      213: -3476489679749534771
+    second: DS DSi - Pokemon Black White - 094 Gengar_276
+  - first:
+      213: -2526763416996384608
+    second: DS DSi - Pokemon Black White - 094 Gengar_277
+  - first:
+      213: -4341175967896444512
+    second: DS DSi - Pokemon Black White - 094 Gengar_278
+  - first:
+      213: -4060791586382200215
+    second: DS DSi - Pokemon Black White - 094 Gengar_279
+  - first:
+      213: 2124985282337379779
+    second: DS DSi - Pokemon Black White - 094 Gengar_280
+  - first:
+      213: -6851812126617063691
+    second: DS DSi - Pokemon Black White - 094 Gengar_281
+  - first:
+      213: -2300441943416117760
+    second: DS DSi - Pokemon Black White - 094 Gengar_282
+  - first:
+      213: 7808018732671730382
+    second: DS DSi - Pokemon Black White - 094 Gengar_283
+  - first:
+      213: 3649219169280115833
+    second: DS DSi - Pokemon Black White - 094 Gengar_284
+  - first:
+      213: -1653054905124196579
+    second: DS DSi - Pokemon Black White - 094 Gengar_285
+  - first:
+      213: 5495097560232560843
+    second: DS DSi - Pokemon Black White - 094 Gengar_286
+  - first:
+      213: -4305985936424306776
+    second: DS DSi - Pokemon Black White - 094 Gengar_287
+  - first:
+      213: -5188799232623196027
+    second: DS DSi - Pokemon Black White - 094 Gengar_288
+  - first:
+      213: 8215971888701540321
+    second: DS DSi - Pokemon Black White - 094 Gengar_289
+  - first:
+      213: 2392198855683562374
+    second: DS DSi - Pokemon Black White - 094 Gengar_290
+  - first:
+      213: -4485511173685160367
+    second: DS DSi - Pokemon Black White - 094 Gengar_291
+  - first:
+      213: -7053452597117042618
+    second: DS DSi - Pokemon Black White - 094 Gengar_292
+  - first:
+      213: 5203045813283403224
+    second: DS DSi - Pokemon Black White - 094 Gengar_293
+  - first:
+      213: 6728406493645489335
+    second: DS DSi - Pokemon Black White - 094 Gengar_294
+  - first:
+      213: -6070514526229076925
+    second: DS DSi - Pokemon Black White - 094 Gengar_295
+  - first:
+      213: 4409660794679995877
+    second: DS DSi - Pokemon Black White - 094 Gengar_296
+  - first:
+      213: 8077543325808884436
+    second: DS DSi - Pokemon Black White - 094 Gengar_297
+  - first:
+      213: -6557021980889742027
+    second: DS DSi - Pokemon Black White - 094 Gengar_298
+  - first:
+      213: -721477446267852570
+    second: DS DSi - Pokemon Black White - 094 Gengar_299
+  - first:
+      213: 4608989557457771104
+    second: DS DSi - Pokemon Black White - 094 Gengar_300
+  - first:
+      213: 5264222072799352096
+    second: DS DSi - Pokemon Black White - 094 Gengar_301
+  - first:
+      213: -5212566620339903690
+    second: DS DSi - Pokemon Black White - 094 Gengar_302
+  - first:
+      213: -8809724610551515391
+    second: DS DSi - Pokemon Black White - 094 Gengar_303
+  - first:
+      213: 1914910832788751241
+    second: DS DSi - Pokemon Black White - 094 Gengar_304
+  - first:
+      213: -4517234995766693271
+    second: DS DSi - Pokemon Black White - 094 Gengar_305
+  - first:
+      213: 8454608458484037628
+    second: DS DSi - Pokemon Black White - 094 Gengar_306
+  - first:
+      213: -4053106760343285178
+    second: DS DSi - Pokemon Black White - 094 Gengar_307
+  - first:
+      213: 1341812664710009705
+    second: DS DSi - Pokemon Black White - 094 Gengar_308
+  - first:
+      213: 2231232778814795344
+    second: DS DSi - Pokemon Black White - 094 Gengar_309
+  - first:
+      213: 1100794193678958661
+    second: DS DSi - Pokemon Black White - 094 Gengar_310
+  - first:
+      213: -4837720833452794004
+    second: DS DSi - Pokemon Black White - 094 Gengar_311
+  - first:
+      213: 6971070221144810122
+    second: DS DSi - Pokemon Black White - 094 Gengar_312
+  - first:
+      213: -991739355361464093
+    second: DS DSi - Pokemon Black White - 094 Gengar_313
+  - first:
+      213: 763428430271366902
+    second: DS DSi - Pokemon Black White - 094 Gengar_314
+  - first:
+      213: 7321999536244807436
+    second: DS DSi - Pokemon Black White - 094 Gengar_315
+  - first:
+      213: 5067120139687736394
+    second: DS DSi - Pokemon Black White - 094 Gengar_316
+  - first:
+      213: -7769471538392379581
+    second: DS DSi - Pokemon Black White - 094 Gengar_317
+  - first:
+      213: -1761576152932340967
+    second: DS DSi - Pokemon Black White - 094 Gengar_318
+  - first:
+      213: 6437441762119608638
+    second: DS DSi - Pokemon Black White - 094 Gengar_319
+  - first:
+      213: 8461311001103546850
+    second: DS DSi - Pokemon Black White - 094 Gengar_320
+  - first:
+      213: -3785226150413631720
+    second: DS DSi - Pokemon Black White - 094 Gengar_321
+  - first:
+      213: -8949868746558542106
+    second: DS DSi - Pokemon Black White - 094 Gengar_322
+  - first:
+      213: 4971671909420073984
+    second: DS DSi - Pokemon Black White - 094 Gengar_323
+  - first:
+      213: 5245120804506043025
+    second: DS DSi - Pokemon Black White - 094 Gengar_324
+  - first:
+      213: -267421259742604369
+    second: DS DSi - Pokemon Black White - 094 Gengar_325
+  - first:
+      213: -358180597671122090
+    second: DS DSi - Pokemon Black White - 094 Gengar_326
+  - first:
+      213: 3887440981902590677
+    second: DS DSi - Pokemon Black White - 094 Gengar_327
+  - first:
+      213: -414964835233884834
+    second: DS DSi - Pokemon Black White - 094 Gengar_328
+  - first:
+      213: 4844927140806348763
+    second: DS DSi - Pokemon Black White - 094 Gengar_329
+  - first:
+      213: -7300870439634199058
+    second: DS DSi - Pokemon Black White - 094 Gengar_330
+  - first:
+      213: 2529129722719805757
+    second: DS DSi - Pokemon Black White - 094 Gengar_331
+  - first:
+      213: -6661878879999109746
+    second: DS DSi - Pokemon Black White - 094 Gengar_332
+  - first:
+      213: -383831648044298647
+    second: DS DSi - Pokemon Black White - 094 Gengar_333
+  - first:
+      213: -6584363851648164826
+    second: DS DSi - Pokemon Black White - 094 Gengar_334
+  - first:
+      213: 128022036047594089
+    second: DS DSi - Pokemon Black White - 094 Gengar_335
+  - first:
+      213: 1231711911143812274
+    second: DS DSi - Pokemon Black White - 094 Gengar_336
+  - first:
+      213: 1938337414643085679
+    second: DS DSi - Pokemon Black White - 094 Gengar_337
+  - first:
+      213: 200386827628536215
+    second: DS DSi - Pokemon Black White - 094 Gengar_338
+  - first:
+      213: 1094308736670452333
+    second: DS DSi - Pokemon Black White - 094 Gengar_339
+  - first:
+      213: 227760945246758896
+    second: DS DSi - Pokemon Black White - 094 Gengar_340
+  - first:
+      213: 3724414237568938430
+    second: DS DSi - Pokemon Black White - 094 Gengar_341
+  - first:
+      213: 6479704042081681584
+    second: DS DSi - Pokemon Black White - 094 Gengar_342
+  - first:
+      213: 4197235779094901962
+    second: DS DSi - Pokemon Black White - 094 Gengar_343
+  - first:
+      213: 3348486859503075173
+    second: DS DSi - Pokemon Black White - 094 Gengar_344
+  - first:
+      213: -9135207111130327957
+    second: DS DSi - Pokemon Black White - 094 Gengar_345
+  - first:
+      213: -4465032114141038572
+    second: DS DSi - Pokemon Black White - 094 Gengar_346
+  - first:
+      213: 7494318836047116717
+    second: DS DSi - Pokemon Black White - 094 Gengar_347
+  - first:
+      213: -839795393358439256
+    second: DS DSi - Pokemon Black White - 094 Gengar_348
+  - first:
+      213: 2951723182602079644
+    second: DS DSi - Pokemon Black White - 094 Gengar_349
+  - first:
+      213: 7016266186250531313
+    second: DS DSi - Pokemon Black White - 094 Gengar_350
+  - first:
+      213: -2217133252205771106
+    second: DS DSi - Pokemon Black White - 094 Gengar_351
+  - first:
+      213: 829453262401878634
+    second: DS DSi - Pokemon Black White - 094 Gengar_352
+  - first:
+      213: -4844951072101949534
+    second: DS DSi - Pokemon Black White - 094 Gengar_353
+  - first:
+      213: -7423970748262946772
+    second: DS DSi - Pokemon Black White - 094 Gengar_354
+  - first:
+      213: 4197039606485284041
+    second: DS DSi - Pokemon Black White - 094 Gengar_355
+  - first:
+      213: -1816309652215011308
+    second: DS DSi - Pokemon Black White - 094 Gengar_356
+  - first:
+      213: -7265554675811911640
+    second: DS DSi - Pokemon Black White - 094 Gengar_357
+  - first:
+      213: -4797858966627679622
+    second: DS DSi - Pokemon Black White - 094 Gengar_358
+  - first:
+      213: 6474895638974105144
+    second: DS DSi - Pokemon Black White - 094 Gengar_359
+  - first:
+      213: -4507047092569491358
+    second: DS DSi - Pokemon Black White - 094 Gengar_360
+  - first:
+      213: 6457217487668144915
+    second: DS DSi - Pokemon Black White - 094 Gengar_361
+  - first:
+      213: 3821106400324124965
+    second: DS DSi - Pokemon Black White - 094 Gengar_362
+  - first:
+      213: 3496393615502556910
+    second: DS DSi - Pokemon Black White - 094 Gengar_363
+  - first:
+      213: 4650321877666528382
+    second: DS DSi - Pokemon Black White - 094 Gengar_364
+  - first:
+      213: 569349624396127712
+    second: DS DSi - Pokemon Black White - 094 Gengar_365
+  - first:
+      213: 7112050720677295860
+    second: DS DSi - Pokemon Black White - 094 Gengar_366
+  - first:
+      213: -6094004879771165602
+    second: DS DSi - Pokemon Black White - 094 Gengar_367
+  - first:
+      213: 3691114768204706768
+    second: DS DSi - Pokemon Black White - 094 Gengar_368
+  - first:
+      213: 885801483678226873
+    second: DS DSi - Pokemon Black White - 094 Gengar_369
+  - first:
+      213: 3791280100894095914
+    second: DS DSi - Pokemon Black White - 094 Gengar_370
+  - first:
+      213: -6251236179108279957
+    second: DS DSi - Pokemon Black White - 094 Gengar_371
+  - first:
+      213: -571481491208454904
+    second: DS DSi - Pokemon Black White - 094 Gengar_372
+  - first:
+      213: 1015553711524410234
+    second: DS DSi - Pokemon Black White - 094 Gengar_373
+  - first:
+      213: -2714878090661862148
+    second: DS DSi - Pokemon Black White - 094 Gengar_374
+  - first:
+      213: 2290728275436621423
+    second: DS DSi - Pokemon Black White - 094 Gengar_375
+  - first:
+      213: -682677658241826115
+    second: DS DSi - Pokemon Black White - 094 Gengar_376
+  - first:
+      213: -272895015415431720
+    second: DS DSi - Pokemon Black White - 094 Gengar_377
+  - first:
+      213: -429888456557903919
+    second: DS DSi - Pokemon Black White - 094 Gengar_378
+  - first:
+      213: -5920975537584152717
+    second: DS DSi - Pokemon Black White - 094 Gengar_379
+  - first:
+      213: 8602563182515473503
+    second: DS DSi - Pokemon Black White - 094 Gengar_380
+  - first:
+      213: -989156772088901170
+    second: DS DSi - Pokemon Black White - 094 Gengar_381
+  - first:
+      213: -2904520926090071520
+    second: DS DSi - Pokemon Black White - 094 Gengar_382
+  - first:
+      213: 8375502278357651459
+    second: DS DSi - Pokemon Black White - 094 Gengar_383
+  - first:
+      213: 6184312443223264451
+    second: DS DSi - Pokemon Black White - 094 Gengar_384
+  - first:
+      213: 3731644171438354706
+    second: DS DSi - Pokemon Black White - 094 Gengar_385
+  - first:
+      213: 5979991472917596517
+    second: DS DSi - Pokemon Black White - 094 Gengar_386
+  - first:
+      213: -4722071474877573481
+    second: DS DSi - Pokemon Black White - 094 Gengar_387
+  - first:
+      213: -757910734651401896
+    second: DS DSi - Pokemon Black White - 094 Gengar_388
+  - first:
+      213: -7434491297404617927
+    second: DS DSi - Pokemon Black White - 094 Gengar_389
+  - first:
+      213: 7436248551179703947
+    second: DS DSi - Pokemon Black White - 094 Gengar_390
+  - first:
+      213: 4705542315269471903
+    second: DS DSi - Pokemon Black White - 094 Gengar_391
+  - first:
+      213: -1718496231842103888
+    second: DS DSi - Pokemon Black White - 094 Gengar_392
+  - first:
+      213: -430546745283146606
+    second: DS DSi - Pokemon Black White - 094 Gengar_393
+  - first:
+      213: 691838475628534192
+    second: DS DSi - Pokemon Black White - 094 Gengar_394
+  - first:
+      213: 4229554885706961267
+    second: DS DSi - Pokemon Black White - 094 Gengar_395
+  - first:
+      213: -2596750092338687995
+    second: DS DSi - Pokemon Black White - 094 Gengar_396
+  - first:
+      213: 2368813771970829294
+    second: DS DSi - Pokemon Black White - 094 Gengar_397
+  - first:
+      213: -8013382974001502985
+    second: DS DSi - Pokemon Black White - 094 Gengar_398
+  - first:
+      213: 6479919303944132638
+    second: DS DSi - Pokemon Black White - 094 Gengar_399
+  - first:
+      213: 838268705017181141
+    second: DS DSi - Pokemon Black White - 094 Gengar_400
+  - first:
+      213: -8363028373227922941
+    second: DS DSi - Pokemon Black White - 094 Gengar_401
+  - first:
+      213: -3990966019373612945
+    second: DS DSi - Pokemon Black White - 094 Gengar_402
+  - first:
+      213: -7330173636288713286
+    second: DS DSi - Pokemon Black White - 094 Gengar_403
+  - first:
+      213: 1164132680876243852
+    second: DS DSi - Pokemon Black White - 094 Gengar_404
+  - first:
+      213: 7453002255225103721
+    second: DS DSi - Pokemon Black White - 094 Gengar_405
+  - first:
+      213: 2201388525481619956
+    second: DS DSi - Pokemon Black White - 094 Gengar_406
+  - first:
+      213: -1888630453764313881
+    second: DS DSi - Pokemon Black White - 094 Gengar_407
+  - first:
+      213: -2049374690312123115
+    second: DS DSi - Pokemon Black White - 094 Gengar_408
+  - first:
+      213: -8972647650680438304
+    second: DS DSi - Pokemon Black White - 094 Gengar_409
+  - first:
+      213: -5258654857309370015
+    second: DS DSi - Pokemon Black White - 094 Gengar_410
+  - first:
+      213: -665093946173781244
+    second: DS DSi - Pokemon Black White - 094 Gengar_411
+  - first:
+      213: -392590987738405837
+    second: DS DSi - Pokemon Black White - 094 Gengar_412
+  - first:
+      213: -1794244290744491839
+    second: DS DSi - Pokemon Black White - 094 Gengar_413
+  - first:
+      213: 4041438698622935562
+    second: DS DSi - Pokemon Black White - 094 Gengar_414
+  - first:
+      213: -7099135998647333399
+    second: DS DSi - Pokemon Black White - 094 Gengar_415
+  - first:
+      213: 387767802222034778
+    second: DS DSi - Pokemon Black White - 094 Gengar_416
+  - first:
+      213: 3223658786989825686
+    second: DS DSi - Pokemon Black White - 094 Gengar_417
+  - first:
+      213: 7702118653324134956
+    second: DS DSi - Pokemon Black White - 094 Gengar_418
+  - first:
+      213: 8734208348076183858
+    second: DS DSi - Pokemon Black White - 094 Gengar_419
+  - first:
+      213: -7082445020229911004
+    second: DS DSi - Pokemon Black White - 094 Gengar_420
+  - first:
+      213: 7198819557937986611
+    second: DS DSi - Pokemon Black White - 094 Gengar_421
+  - first:
+      213: -8700720094844279457
+    second: DS DSi - Pokemon Black White - 094 Gengar_422
+  - first:
+      213: 6449107785227911406
+    second: DS DSi - Pokemon Black White - 094 Gengar_423
+  - first:
+      213: -7692871925107313220
+    second: DS DSi - Pokemon Black White - 094 Gengar_424
+  - first:
+      213: -2543612887394888013
+    second: DS DSi - Pokemon Black White - 094 Gengar_425
+  - first:
+      213: -8053811632578600875
+    second: DS DSi - Pokemon Black White - 094 Gengar_426
+  - first:
+      213: -477017128082922484
+    second: DS DSi - Pokemon Black White - 094 Gengar_427
+  - first:
+      213: -7819524112443302799
+    second: DS DSi - Pokemon Black White - 094 Gengar_428
+  - first:
+      213: -6706431336136768465
+    second: DS DSi - Pokemon Black White - 094 Gengar_429
+  - first:
+      213: -1102236024584895594
+    second: DS DSi - Pokemon Black White - 094 Gengar_430
+  - first:
+      213: 6270566824820046509
+    second: DS DSi - Pokemon Black White - 094 Gengar_431
+  - first:
+      213: -1692804140911441619
+    second: DS DSi - Pokemon Black White - 094 Gengar_432
+  - first:
+      213: -4125167875250732576
+    second: DS DSi - Pokemon Black White - 094 Gengar_433
+  - first:
+      213: -5735407351745648723
+    second: DS DSi - Pokemon Black White - 094 Gengar_434
+  - first:
+      213: -8471626012148899983
+    second: DS DSi - Pokemon Black White - 094 Gengar_435
+  - first:
+      213: -190636704661007569
+    second: DS DSi - Pokemon Black White - 094 Gengar_436
+  - first:
+      213: -7263446909063412173
+    second: DS DSi - Pokemon Black White - 094 Gengar_437
+  - first:
+      213: -4338562071890870337
+    second: DS DSi - Pokemon Black White - 094 Gengar_438
+  - first:
+      213: 4514402589586252123
+    second: DS DSi - Pokemon Black White - 094 Gengar_439
+  - first:
+      213: 3637082785723588631
+    second: DS DSi - Pokemon Black White - 094 Gengar_440
+  - first:
+      213: 3718363184251802220
+    second: DS DSi - Pokemon Black White - 094 Gengar_441
+  - first:
+      213: 9174991390828193201
+    second: DS DSi - Pokemon Black White - 094 Gengar_442
+  - first:
+      213: 7764841682617756905
+    second: DS DSi - Pokemon Black White - 094 Gengar_443
+  - first:
+      213: -8714496044338757610
+    second: DS DSi - Pokemon Black White - 094 Gengar_444
+  - first:
+      213: 4653271956460908329
+    second: DS DSi - Pokemon Black White - 094 Gengar_445
+  - first:
+      213: -7295193807942768719
+    second: DS DSi - Pokemon Black White - 094 Gengar_446
+  - first:
+      213: 2528334776943839073
+    second: DS DSi - Pokemon Black White - 094 Gengar_447
+  - first:
+      213: -5806179364232723715
+    second: DS DSi - Pokemon Black White - 094 Gengar_448
+  - first:
+      213: 7650261236109562696
+    second: DS DSi - Pokemon Black White - 094 Gengar_449
+  - first:
+      213: -6800285051343690026
+    second: DS DSi - Pokemon Black White - 094 Gengar_450
+  - first:
+      213: -6718897403948506458
+    second: DS DSi - Pokemon Black White - 094 Gengar_451
+  - first:
+      213: 7052950664679653276
+    second: DS DSi - Pokemon Black White - 094 Gengar_452
+  - first:
+      213: 9204373200667256810
+    second: DS DSi - Pokemon Black White - 094 Gengar_453
+  - first:
+      213: 1274828444769122468
+    second: DS DSi - Pokemon Black White - 094 Gengar_454
+  - first:
+      213: -1458485681920517366
+    second: DS DSi - Pokemon Black White - 094 Gengar_455
+  - first:
+      213: 6525366552900913920
+    second: DS DSi - Pokemon Black White - 094 Gengar_456
+  - first:
+      213: -3850409905656683564
+    second: DS DSi - Pokemon Black White - 094 Gengar_457
+  - first:
+      213: -5444049968467058691
+    second: DS DSi - Pokemon Black White - 094 Gengar_458
+  - first:
+      213: -7426551197113145438
+    second: DS DSi - Pokemon Black White - 094 Gengar_459
+  - first:
+      213: -6260888941081424719
+    second: DS DSi - Pokemon Black White - 094 Gengar_460
+  - first:
+      213: -7755301809197405158
+    second: DS DSi - Pokemon Black White - 094 Gengar_461
+  - first:
+      213: 8715952351707872682
+    second: DS DSi - Pokemon Black White - 094 Gengar_462
+  - first:
+      213: 4621672841262358604
+    second: DS DSi - Pokemon Black White - 094 Gengar_463
+  - first:
+      213: -6903159465704241290
+    second: DS DSi - Pokemon Black White - 094 Gengar_464
+  - first:
+      213: -2083898946308754962
+    second: DS DSi - Pokemon Black White - 094 Gengar_465
+  - first:
+      213: 6669603688678846306
+    second: DS DSi - Pokemon Black White - 094 Gengar_466
+  - first:
+      213: 6559940709357798215
+    second: DS DSi - Pokemon Black White - 094 Gengar_467
+  - first:
+      213: -8051560676535014915
+    second: DS DSi - Pokemon Black White - 094 Gengar_468
+  - first:
+      213: 4500574563262267146
+    second: DS DSi - Pokemon Black White - 094 Gengar_469
+  - first:
+      213: 2268282199454543058
+    second: DS DSi - Pokemon Black White - 094 Gengar_470
+  - first:
+      213: -828328724845899443
+    second: DS DSi - Pokemon Black White - 094 Gengar_471
+  - first:
+      213: -7423151089882249477
+    second: DS DSi - Pokemon Black White - 094 Gengar_472
+  - first:
+      213: 7330821902516615249
+    second: DS DSi - Pokemon Black White - 094 Gengar_473
+  - first:
+      213: 4263257698282020497
+    second: DS DSi - Pokemon Black White - 094 Gengar_474
+  - first:
+      213: -4261189241198608136
+    second: DS DSi - Pokemon Black White - 094 Gengar_475
+  - first:
+      213: 1250713543486068536
+    second: DS DSi - Pokemon Black White - 094 Gengar_476
+  - first:
+      213: -604171935554157652
+    second: DS DSi - Pokemon Black White - 094 Gengar_477
+  - first:
+      213: 6348310806890429419
+    second: DS DSi - Pokemon Black White - 094 Gengar_478
+  - first:
+      213: 4037128072998000244
+    second: DS DSi - Pokemon Black White - 094 Gengar_479
+  - first:
+      213: 3790169524651437162
+    second: DS DSi - Pokemon Black White - 094 Gengar_480
+  - first:
+      213: -1153826218164047232
+    second: DS DSi - Pokemon Black White - 094 Gengar_481
+  - first:
+      213: 3458096451491115999
+    second: DS DSi - Pokemon Black White - 094 Gengar_482
+  - first:
+      213: -3551226107331888402
+    second: DS DSi - Pokemon Black White - 094 Gengar_483
+  - first:
+      213: 5932336810533871227
+    second: DS DSi - Pokemon Black White - 094 Gengar_484
+  - first:
+      213: -7800479017348034006
+    second: DS DSi - Pokemon Black White - 094 Gengar_485
+  - first:
+      213: 2664114344726284530
+    second: DS DSi - Pokemon Black White - 094 Gengar_486
+  - first:
+      213: -4628842174019683187
+    second: DS DSi - Pokemon Black White - 094 Gengar_487
+  - first:
+      213: 4169819609499566982
+    second: DS DSi - Pokemon Black White - 094 Gengar_488
+  - first:
+      213: -6278775640012960016
+    second: DS DSi - Pokemon Black White - 094 Gengar_489
+  - first:
+      213: 6748778439820360417
+    second: DS DSi - Pokemon Black White - 094 Gengar_490
+  - first:
+      213: 2336672275773768173
+    second: DS DSi - Pokemon Black White - 094 Gengar_491
+  - first:
+      213: -7552733845828761801
+    second: DS DSi - Pokemon Black White - 094 Gengar_492
+  - first:
+      213: 6146052858421625818
+    second: DS DSi - Pokemon Black White - 094 Gengar_493
+  - first:
+      213: 4337901432074980225
+    second: DS DSi - Pokemon Black White - 094 Gengar_494
+  - first:
+      213: -7384175718766228671
+    second: DS DSi - Pokemon Black White - 094 Gengar_495
+  - first:
+      213: -7611517494187443829
+    second: DS DSi - Pokemon Black White - 094 Gengar_496
+  - first:
+      213: -6621882926255836800
+    second: DS DSi - Pokemon Black White - 094 Gengar_497
+  - first:
+      213: -4300886747828708873
+    second: DS DSi - Pokemon Black White - 094 Gengar_498
+  - first:
+      213: 2380565841099756712
+    second: DS DSi - Pokemon Black White - 094 Gengar_499
+  - first:
+      213: 511151527701519863
+    second: DS DSi - Pokemon Black White - 094 Gengar_500
+  - first:
+      213: 4665465580193995415
+    second: DS DSi - Pokemon Black White - 094 Gengar_501
+  - first:
+      213: -8386628628203185081
+    second: DS DSi - Pokemon Black White - 094 Gengar_502
+  - first:
+      213: 7242255622924774231
+    second: DS DSi - Pokemon Black White - 094 Gengar_503
+  - first:
+      213: -2230038312935325057
+    second: DS DSi - Pokemon Black White - 094 Gengar_504
+  - first:
+      213: -6241565602226298753
+    second: DS DSi - Pokemon Black White - 094 Gengar_505
+  - first:
+      213: 5796247041832785058
+    second: DS DSi - Pokemon Black White - 094 Gengar_506
+  - first:
+      213: -9100260221981449895
+    second: DS DSi - Pokemon Black White - 094 Gengar_507
+  - first:
+      213: -9024076719620091452
+    second: DS DSi - Pokemon Black White - 094 Gengar_508
+  - first:
+      213: -8259800936407663737
+    second: DS DSi - Pokemon Black White - 094 Gengar_509
+  - first:
+      213: 3553144036015554403
+    second: DS DSi - Pokemon Black White - 094 Gengar_510
+  - first:
+      213: 5118293588777077989
+    second: DS DSi - Pokemon Black White - 094 Gengar_511
+  - first:
+      213: -6240407701106990919
+    second: DS DSi - Pokemon Black White - 094 Gengar_512
+  - first:
+      213: 6630088419632064168
+    second: DS DSi - Pokemon Black White - 094 Gengar_513
+  - first:
+      213: 1468504067922775513
+    second: DS DSi - Pokemon Black White - 094 Gengar_514
+  - first:
+      213: -4725715832877611054
+    second: DS DSi - Pokemon Black White - 094 Gengar_515
+  - first:
+      213: -8313040804520067220
+    second: DS DSi - Pokemon Black White - 094 Gengar_516
+  - first:
+      213: 8596973724164872435
+    second: DS DSi - Pokemon Black White - 094 Gengar_517
+  - first:
+      213: -7817786551458032337
+    second: DS DSi - Pokemon Black White - 094 Gengar_518
+  - first:
+      213: -1251315458412038289
+    second: DS DSi - Pokemon Black White - 094 Gengar_519
+  - first:
+      213: 898199759975954694
+    second: DS DSi - Pokemon Black White - 094 Gengar_520
+  - first:
+      213: -7957086926545714475
+    second: DS DSi - Pokemon Black White - 094 Gengar_521
+  - first:
+      213: 3479822478306706024
+    second: DS DSi - Pokemon Black White - 094 Gengar_522
+  - first:
+      213: -3528204055800183858
+    second: DS DSi - Pokemon Black White - 094 Gengar_523
+  - first:
+      213: -7193666052143950215
+    second: DS DSi - Pokemon Black White - 094 Gengar_524
+  - first:
+      213: -8297272826243217564
+    second: DS DSi - Pokemon Black White - 094 Gengar_525
+  - first:
+      213: -470144685177047545
+    second: DS DSi - Pokemon Black White - 094 Gengar_526
+  - first:
+      213: -8777081951943485007
+    second: DS DSi - Pokemon Black White - 094 Gengar_527
+  - first:
+      213: 2474184141342751861
+    second: DS DSi - Pokemon Black White - 094 Gengar_528
+  - first:
+      213: -6076861217350392886
+    second: DS DSi - Pokemon Black White - 094 Gengar_529
+  - first:
+      213: -5499041294138897686
+    second: DS DSi - Pokemon Black White - 094 Gengar_530
+  - first:
+      213: 348296770544514942
+    second: DS DSi - Pokemon Black White - 094 Gengar_531
+  - first:
+      213: 7115037864929176390
+    second: DS DSi - Pokemon Black White - 094 Gengar_532
+  - first:
+      213: 1254162060527208013
+    second: DS DSi - Pokemon Black White - 094 Gengar_533
+  - first:
+      213: 71727329637086687
+    second: DS DSi - Pokemon Black White - 094 Gengar_534
+  - first:
+      213: 6744452445568198073
+    second: DS DSi - Pokemon Black White - 094 Gengar_535
+  - first:
+      213: 5288286045117595885
+    second: DS DSi - Pokemon Black White - 094 Gengar_536
+  - first:
+      213: 9111537758239206688
+    second: DS DSi - Pokemon Black White - 094 Gengar_537
+  - first:
+      213: 5633209240142159367
+    second: DS DSi - Pokemon Black White - 094 Gengar_538
+  - first:
+      213: -6790588074320843602
+    second: DS DSi - Pokemon Black White - 094 Gengar_539
+  - first:
+      213: -8622665319777240817
+    second: DS DSi - Pokemon Black White - 094 Gengar_540
+  - first:
+      213: -5273717846117238932
+    second: DS DSi - Pokemon Black White - 094 Gengar_541
+  - first:
+      213: 8327002890422735782
+    second: DS DSi - Pokemon Black White - 094 Gengar_542
+  - first:
+      213: 8901968108761822196
+    second: DS DSi - Pokemon Black White - 094 Gengar_543
+  - first:
+      213: -2222419353699575992
+    second: DS DSi - Pokemon Black White - 094 Gengar_544
+  - first:
+      213: 6676482228954667835
+    second: DS DSi - Pokemon Black White - 094 Gengar_545
+  - first:
+      213: -7099227808893326606
+    second: DS DSi - Pokemon Black White - 094 Gengar_546
+  - first:
+      213: 1591140016202979617
+    second: DS DSi - Pokemon Black White - 094 Gengar_547
+  - first:
+      213: -7243402088515091633
+    second: DS DSi - Pokemon Black White - 094 Gengar_548
+  - first:
+      213: 2142951082044972016
+    second: DS DSi - Pokemon Black White - 094 Gengar_549
+  - first:
+      213: 2365727717346835348
+    second: DS DSi - Pokemon Black White - 094 Gengar_550
+  - first:
+      213: 6941317367872867060
+    second: DS DSi - Pokemon Black White - 094 Gengar_551
+  - first:
+      213: -2844180357868817667
+    second: DS DSi - Pokemon Black White - 094 Gengar_552
+  - first:
+      213: -178695806819653600
+    second: DS DSi - Pokemon Black White - 094 Gengar_553
+  - first:
+      213: -7690683039333110867
+    second: DS DSi - Pokemon Black White - 094 Gengar_554
+  - first:
+      213: 4519006289629435670
+    second: DS DSi - Pokemon Black White - 094 Gengar_555
+  - first:
+      213: 6771437128341982108
+    second: DS DSi - Pokemon Black White - 094 Gengar_556
+  - first:
+      213: -5799101436099029458
+    second: DS DSi - Pokemon Black White - 094 Gengar_557
+  - first:
+      213: -4490276956222572644
+    second: DS DSi - Pokemon Black White - 094 Gengar_558
+  - first:
+      213: -9162306706376881562
+    second: DS DSi - Pokemon Black White - 094 Gengar_559
+  - first:
+      213: -1567533688078251464
+    second: DS DSi - Pokemon Black White - 094 Gengar_560
+  - first:
+      213: -7255718637740704483
+    second: DS DSi - Pokemon Black White - 094 Gengar_561
+  - first:
+      213: 5937508723831183252
+    second: DS DSi - Pokemon Black White - 094 Gengar_562
+  - first:
+      213: -4125399628223694831
+    second: DS DSi - Pokemon Black White - 094 Gengar_563
+  - first:
+      213: -3823142000013186253
+    second: DS DSi - Pokemon Black White - 094 Gengar_564
+  - first:
+      213: 785920777720143887
+    second: DS DSi - Pokemon Black White - 094 Gengar_565
+  - first:
+      213: -3021625863537587174
+    second: DS DSi - Pokemon Black White - 094 Gengar_566
+  - first:
+      213: 9037133863134469320
+    second: DS DSi - Pokemon Black White - 094 Gengar_567
+  - first:
+      213: 3738011850794527441
+    second: DS DSi - Pokemon Black White - 094 Gengar_568
+  - first:
+      213: 3545833295729228544
+    second: DS DSi - Pokemon Black White - 094 Gengar_569
+  - first:
+      213: 1672905001915970023
+    second: DS DSi - Pokemon Black White - 094 Gengar_570
+  - first:
+      213: 3896569428775129068
+    second: DS DSi - Pokemon Black White - 094 Gengar_571
+  - first:
+      213: -8909438530142091457
+    second: DS DSi - Pokemon Black White - 094 Gengar_572
+  - first:
+      213: 2617613670152178393
+    second: DS DSi - Pokemon Black White - 094 Gengar_573
+  - first:
+      213: -3028509654055371328
+    second: DS DSi - Pokemon Black White - 094 Gengar_574
+  - first:
+      213: 3739772649901221823
+    second: DS DSi - Pokemon Black White - 094 Gengar_575
+  - first:
+      213: -4964000364712893317
+    second: DS DSi - Pokemon Black White - 094 Gengar_576
+  - first:
+      213: -9220911304604493339
+    second: DS DSi - Pokemon Black White - 094 Gengar_577
+  - first:
+      213: 4206900938821444183
+    second: DS DSi - Pokemon Black White - 094 Gengar_578
+  - first:
+      213: 4167009059126472301
+    second: DS DSi - Pokemon Black White - 094 Gengar_579
+  - first:
+      213: -6777251784938884885
+    second: DS DSi - Pokemon Black White - 094 Gengar_580
+  - first:
+      213: -52565037528290015
+    second: DS DSi - Pokemon Black White - 094 Gengar_581
+  - first:
+      213: 2565758853874689339
+    second: DS DSi - Pokemon Black White - 094 Gengar_582
+  - first:
+      213: 5147155334715566359
+    second: DS DSi - Pokemon Black White - 094 Gengar_583
+  - first:
+      213: -3504328288051067064
+    second: DS DSi - Pokemon Black White - 094 Gengar_584
+  - first:
+      213: -3438138951941220032
+    second: DS DSi - Pokemon Black White - 094 Gengar_585
+  - first:
+      213: -8231188518877714703
+    second: DS DSi - Pokemon Black White - 094 Gengar_586
+  - first:
+      213: -1106735630401483019
+    second: DS DSi - Pokemon Black White - 094 Gengar_587
+  - first:
+      213: 2418829599448466754
+    second: DS DSi - Pokemon Black White - 094 Gengar_588
+  - first:
+      213: 3164100697044651008
+    second: DS DSi - Pokemon Black White - 094 Gengar_589
+  - first:
+      213: -4344013610612118595
+    second: DS DSi - Pokemon Black White - 094 Gengar_590
+  - first:
+      213: -3425478689771245331
+    second: DS DSi - Pokemon Black White - 094 Gengar_591
+  - first:
+      213: 7542269964756125727
+    second: DS DSi - Pokemon Black White - 094 Gengar_592
+  - first:
+      213: -432950322435172867
+    second: DS DSi - Pokemon Black White - 094 Gengar_593
+  - first:
+      213: 3569343384077353871
+    second: DS DSi - Pokemon Black White - 094 Gengar_594
+  - first:
+      213: 1543571702389036481
+    second: DS DSi - Pokemon Black White - 094 Gengar_595
+  - first:
+      213: 3226886480756026975
+    second: DS DSi - Pokemon Black White - 094 Gengar_596
+  - first:
+      213: 798451508944683576
+    second: DS DSi - Pokemon Black White - 094 Gengar_597
+  - first:
+      213: 1695947010050072931
+    second: DS DSi - Pokemon Black White - 094 Gengar_598
+  - first:
+      213: 3160178862574519938
+    second: DS DSi - Pokemon Black White - 094 Gengar_599
+  - first:
+      213: -8897870401355744067
+    second: DS DSi - Pokemon Black White - 094 Gengar_600
+  - first:
+      213: 7963750259779148229
+    second: DS DSi - Pokemon Black White - 094 Gengar_601
+  - first:
+      213: 1731041080320682634
+    second: DS DSi - Pokemon Black White - 094 Gengar_602
+  - first:
+      213: 3348947367614939351
+    second: DS DSi - Pokemon Black White - 094 Gengar_603
+  - first:
+      213: -7371041156398394036
+    second: DS DSi - Pokemon Black White - 094 Gengar_604
+  - first:
+      213: -8728167643585142201
+    second: DS DSi - Pokemon Black White - 094 Gengar_605
+  - first:
+      213: -876441486591132345
+    second: DS DSi - Pokemon Black White - 094 Gengar_606
+  - first:
+      213: 8517221885169092909
+    second: DS DSi - Pokemon Black White - 094 Gengar_607
+  - first:
+      213: 9019062520454857971
+    second: DS DSi - Pokemon Black White - 094 Gengar_608
+  - first:
+      213: 6785651455789521221
+    second: DS DSi - Pokemon Black White - 094 Gengar_609
+  - first:
+      213: 6716946474936769205
+    second: DS DSi - Pokemon Black White - 094 Gengar_610
+  - first:
+      213: 7637048189548721075
+    second: DS DSi - Pokemon Black White - 094 Gengar_611
+  - first:
+      213: 7235846932026806772
+    second: DS DSi - Pokemon Black White - 094 Gengar_612
+  - first:
+      213: -4176899279384954068
+    second: DS DSi - Pokemon Black White - 094 Gengar_613
+  - first:
+      213: 5801971634998662868
+    second: DS DSi - Pokemon Black White - 094 Gengar_614
+  - first:
+      213: 4547008140957935447
+    second: DS DSi - Pokemon Black White - 094 Gengar_615
+  - first:
+      213: 1199453225208037435
+    second: DS DSi - Pokemon Black White - 094 Gengar_616
+  - first:
+      213: -389155894288814948
+    second: DS DSi - Pokemon Black White - 094 Gengar_617
+  - first:
+      213: 4166588450503019881
+    second: DS DSi - Pokemon Black White - 094 Gengar_618
+  - first:
+      213: 394447009737853521
+    second: DS DSi - Pokemon Black White - 094 Gengar_619
+  - first:
+      213: -7553213278045429034
+    second: DS DSi - Pokemon Black White - 094 Gengar_620
+  - first:
+      213: -5011977978720066414
+    second: DS DSi - Pokemon Black White - 094 Gengar_621
+  - first:
+      213: 7506880147507185707
+    second: DS DSi - Pokemon Black White - 094 Gengar_622
+  - first:
+      213: 4582132352089724597
+    second: DS DSi - Pokemon Black White - 094 Gengar_623
+  - first:
+      213: -2383887696265106743
+    second: DS DSi - Pokemon Black White - 094 Gengar_624
+  - first:
+      213: 3983752961280782503
+    second: DS DSi - Pokemon Black White - 094 Gengar_625
+  - first:
+      213: -669642442977754398
+    second: DS DSi - Pokemon Black White - 094 Gengar_626
+  - first:
+      213: 7427306556012959613
+    second: DS DSi - Pokemon Black White - 094 Gengar_627
+  - first:
+      213: -6700585513836312449
+    second: DS DSi - Pokemon Black White - 094 Gengar_628
+  - first:
+      213: -6208267446686750476
+    second: DS DSi - Pokemon Black White - 094 Gengar_629
+  - first:
+      213: 7332228410398847885
+    second: DS DSi - Pokemon Black White - 094 Gengar_630
+  - first:
+      213: -6914044170126787606
+    second: DS DSi - Pokemon Black White - 094 Gengar_631
+  - first:
+      213: -7110548624080370465
+    second: DS DSi - Pokemon Black White - 094 Gengar_632
+  - first:
+      213: 5854684052232537353
+    second: DS DSi - Pokemon Black White - 094 Gengar_633
+  - first:
+      213: 7375059493704085224
+    second: DS DSi - Pokemon Black White - 094 Gengar_634
+  - first:
+      213: -416732053813507477
+    second: DS DSi - Pokemon Black White - 094 Gengar_635
+  - first:
+      213: 2136157822483738274
+    second: DS DSi - Pokemon Black White - 094 Gengar_636
+  - first:
+      213: -7752019217541851298
+    second: DS DSi - Pokemon Black White - 094 Gengar_637
+  - first:
+      213: 5741074393744389511
+    second: DS DSi - Pokemon Black White - 094 Gengar_638
+  - first:
+      213: -2804392572485995966
+    second: DS DSi - Pokemon Black White - 094 Gengar_639
+  - first:
+      213: -6540573420416055579
+    second: DS DSi - Pokemon Black White - 094 Gengar_640
+  - first:
+      213: 3980242709945019144
+    second: DS DSi - Pokemon Black White - 094 Gengar_641
+  - first:
+      213: 8539977679452804346
+    second: DS DSi - Pokemon Black White - 094 Gengar_642
+  - first:
+      213: -2911267053311299563
+    second: DS DSi - Pokemon Black White - 094 Gengar_643
+  - first:
+      213: 8367806041207626551
+    second: DS DSi - Pokemon Black White - 094 Gengar_644
+  - first:
+      213: 1112259283069944417
+    second: DS DSi - Pokemon Black White - 094 Gengar_645
+  - first:
+      213: 7814032926164003847
+    second: DS DSi - Pokemon Black White - 094 Gengar_646
+  - first:
+      213: 3126887230811433314
+    second: DS DSi - Pokemon Black White - 094 Gengar_647
+  - first:
+      213: -8705748738368131677
+    second: DS DSi - Pokemon Black White - 094 Gengar_648
+  - first:
+      213: -4544389642052353320
+    second: DS DSi - Pokemon Black White - 094 Gengar_649
+  - first:
+      213: -5258518909505208651
+    second: DS DSi - Pokemon Black White - 094 Gengar_650
+  - first:
+      213: -8883250462849703281
+    second: DS DSi - Pokemon Black White - 094 Gengar_651
+  - first:
+      213: 8636837190011735148
+    second: DS DSi - Pokemon Black White - 094 Gengar_652
+  - first:
+      213: 5509685458580989578
+    second: DS DSi - Pokemon Black White - 094 Gengar_653
+  - first:
+      213: 7697490676935250491
+    second: DS DSi - Pokemon Black White - 094 Gengar_654
+  - first:
+      213: 1745661348577814502
+    second: DS DSi - Pokemon Black White - 094 Gengar_655
+  - first:
+      213: 5322949698328428355
+    second: DS DSi - Pokemon Black White - 094 Gengar_656
+  - first:
+      213: -1907644560147010214
+    second: DS DSi - Pokemon Black White - 094 Gengar_657
+  - first:
+      213: 1376774553686657009
+    second: DS DSi - Pokemon Black White - 094 Gengar_658
+  - first:
+      213: 1718213558854159713
+    second: DS DSi - Pokemon Black White - 094 Gengar_659
+  - first:
+      213: 3880517158424288159
+    second: DS DSi - Pokemon Black White - 094 Gengar_660
+  - first:
+      213: -2257316442233761260
+    second: DS DSi - Pokemon Black White - 094 Gengar_661
+  - first:
+      213: -4813050028747726933
+    second: DS DSi - Pokemon Black White - 094 Gengar_662
+  - first:
+      213: 5913734472820194534
+    second: DS DSi - Pokemon Black White - 094 Gengar_663
+  - first:
+      213: -849112721381339756
+    second: DS DSi - Pokemon Black White - 094 Gengar_664
+  - first:
+      213: -84947309455933255
+    second: DS DSi - Pokemon Black White - 094 Gengar_665
+  - first:
+      213: -3567845214810875991
+    second: DS DSi - Pokemon Black White - 094 Gengar_666
+  - first:
+      213: -1526067576329054034
+    second: DS DSi - Pokemon Black White - 094 Gengar_667
+  - first:
+      213: 6553393603333749699
+    second: DS DSi - Pokemon Black White - 094 Gengar_668
+  - first:
+      213: 5451290582149758402
+    second: DS DSi - Pokemon Black White - 094 Gengar_669
+  - first:
+      213: 8566911038120276893
+    second: DS DSi - Pokemon Black White - 094 Gengar_670
+  - first:
+      213: -9081897046510766721
+    second: DS DSi - Pokemon Black White - 094 Gengar_671
+  - first:
+      213: -7162405042267668184
+    second: DS DSi - Pokemon Black White - 094 Gengar_672
+  - first:
+      213: -2448483753769167112
+    second: DS DSi - Pokemon Black White - 094 Gengar_673
+  - first:
+      213: -2772782696232590172
+    second: DS DSi - Pokemon Black White - 094 Gengar_674
+  - first:
+      213: 6082382192178226068
+    second: DS DSi - Pokemon Black White - 094 Gengar_675
+  - first:
+      213: -2429429257451354277
+    second: DS DSi - Pokemon Black White - 094 Gengar_676
+  - first:
+      213: 2287252116308997261
+    second: DS DSi - Pokemon Black White - 094 Gengar_677
+  - first:
+      213: 3430662911464439269
+    second: DS DSi - Pokemon Black White - 094 Gengar_678
+  - first:
+      213: -6742574755483355461
+    second: DS DSi - Pokemon Black White - 094 Gengar_679
+  - first:
+      213: 8729154384577654143
+    second: DS DSi - Pokemon Black White - 094 Gengar_680
+  - first:
+      213: 9108126114435015219
+    second: DS DSi - Pokemon Black White - 094 Gengar_681
+  - first:
+      213: -5652766027379390186
+    second: DS DSi - Pokemon Black White - 094 Gengar_682
+  - first:
+      213: 1197297688236573188
+    second: DS DSi - Pokemon Black White - 094 Gengar_683
+  - first:
+      213: -4587797292494834771
+    second: DS DSi - Pokemon Black White - 094 Gengar_684
+  - first:
+      213: -3125596174856705816
+    second: DS DSi - Pokemon Black White - 094 Gengar_685
+  - first:
+      213: 1171560962090792039
+    second: DS DSi - Pokemon Black White - 094 Gengar_686
+  - first:
+      213: 3298429214508549174
+    second: DS DSi - Pokemon Black White - 094 Gengar_687
+  - first:
+      213: -3859211393583759788
+    second: DS DSi - Pokemon Black White - 094 Gengar_688
+  - first:
+      213: 1517852439490982038
+    second: DS DSi - Pokemon Black White - 094 Gengar_689
+  - first:
+      213: -6598332370253588334
+    second: DS DSi - Pokemon Black White - 094 Gengar_690
+  - first:
+      213: -7094277105039944708
+    second: DS DSi - Pokemon Black White - 094 Gengar_691
+  - first:
+      213: -3447967011832077697
+    second: DS DSi - Pokemon Black White - 094 Gengar_692
+  - first:
+      213: -9090987745676298023
+    second: DS DSi - Pokemon Black White - 094 Gengar_693
+  - first:
+      213: 8722845508721491812
+    second: DS DSi - Pokemon Black White - 094 Gengar_694
+  - first:
+      213: 4755117054193849745
+    second: DS DSi - Pokemon Black White - 094 Gengar_695
+  - first:
+      213: -7898563584942169254
+    second: DS DSi - Pokemon Black White - 094 Gengar_696
+  - first:
+      213: -3744114248944193551
+    second: DS DSi - Pokemon Black White - 094 Gengar_697
+  - first:
+      213: -7961008816553323253
+    second: DS DSi - Pokemon Black White - 094 Gengar_698
+  - first:
+      213: -5085490079164244264
+    second: DS DSi - Pokemon Black White - 094 Gengar_699
+  - first:
+      213: 5494806124304651254
+    second: DS DSi - Pokemon Black White - 094 Gengar_700
+  - first:
+      213: -8423375982495651396
+    second: DS DSi - Pokemon Black White - 094 Gengar_701
+  - first:
+      213: 123701924307063742
+    second: DS DSi - Pokemon Black White - 094 Gengar_702
+  - first:
+      213: 849654875814809684
+    second: DS DSi - Pokemon Black White - 094 Gengar_703
+  - first:
+      213: 426603375672163462
+    second: DS DSi - Pokemon Black White - 094 Gengar_704
+  - first:
+      213: 8116647998168520638
+    second: DS DSi - Pokemon Black White - 094 Gengar_705
+  - first:
+      213: 2464389092800590152
+    second: DS DSi - Pokemon Black White - 094 Gengar_706
+  - first:
+      213: 3251679800076342472
+    second: DS DSi - Pokemon Black White - 094 Gengar_707
+  - first:
+      213: 3685514048589609930
+    second: DS DSi - Pokemon Black White - 094 Gengar_708
+  - first:
+      213: 295674362630364176
+    second: DS DSi - Pokemon Black White - 094 Gengar_709
+  - first:
+      213: 7045875025262302728
+    second: DS DSi - Pokemon Black White - 094 Gengar_710
+  - first:
+      213: 4987632986162583991
+    second: DS DSi - Pokemon Black White - 094 Gengar_711
+  - first:
+      213: -4988381755836050850
+    second: DS DSi - Pokemon Black White - 094 Gengar_712
+  - first:
+      213: 4254506646683493352
+    second: DS DSi - Pokemon Black White - 094 Gengar_713
+  - first:
+      213: -2599187956855010629
+    second: DS DSi - Pokemon Black White - 094 Gengar_714
+  - first:
+      213: -4184161802583079740
+    second: DS DSi - Pokemon Black White - 094 Gengar_715
+  - first:
+      213: -2503233396799401555
+    second: DS DSi - Pokemon Black White - 094 Gengar_716
+  - first:
+      213: 6324636530698382961
+    second: DS DSi - Pokemon Black White - 094 Gengar_717
+  - first:
+      213: 6403918464694237051
+    second: DS DSi - Pokemon Black White - 094 Gengar_718
+  - first:
+      213: -7248495331100673458
+    second: DS DSi - Pokemon Black White - 094 Gengar_719
+  - first:
+      213: -5359374545345071877
+    second: DS DSi - Pokemon Black White - 094 Gengar_720
+  - first:
+      213: 6069692410584617561
+    second: DS DSi - Pokemon Black White - 094 Gengar_721
+  - first:
+      213: 3595416521551587202
+    second: DS DSi - Pokemon Black White - 094 Gengar_722
+  - first:
+      213: -5458295170970596268
+    second: DS DSi - Pokemon Black White - 094 Gengar_723
+  - first:
+      213: 9107384897336671031
+    second: DS DSi - Pokemon Black White - 094 Gengar_724
+  - first:
+      213: 8723892079019350413
+    second: DS DSi - Pokemon Black White - 094 Gengar_725
+  - first:
+      213: -3134467145392699246
+    second: DS DSi - Pokemon Black White - 094 Gengar_726
+  - first:
+      213: -909719708652246082
+    second: DS DSi - Pokemon Black White - 094 Gengar_727
+  - first:
+      213: -2864164208627074690
+    second: DS DSi - Pokemon Black White - 094 Gengar_728
+  - first:
+      213: -682486121171116434
+    second: DS DSi - Pokemon Black White - 094 Gengar_729
+  - first:
+      213: -6173520032681823439
+    second: DS DSi - Pokemon Black White - 094 Gengar_730
+  - first:
+      213: -1459359816058547116
+    second: DS DSi - Pokemon Black White - 094 Gengar_731
+  - first:
+      213: 8809779117552850860
+    second: DS DSi - Pokemon Black White - 094 Gengar_732
+  - first:
+      213: 9078222474266421024
+    second: DS DSi - Pokemon Black White - 094 Gengar_733
+  - first:
+      213: -2207786205305340048
+    second: DS DSi - Pokemon Black White - 094 Gengar_734
+  - first:
+      213: 8393040656355741698
+    second: DS DSi - Pokemon Black White - 094 Gengar_735
+  - first:
+      213: -49758687722561522
+    second: DS DSi - Pokemon Black White - 094 Gengar_736
+  - first:
+      213: 1489977920383638665
+    second: DS DSi - Pokemon Black White - 094 Gengar_737
+  - first:
+      213: 4216989166040313806
+    second: DS DSi - Pokemon Black White - 094 Gengar_738
+  - first:
+      213: 2491107198308289298
+    second: DS DSi - Pokemon Black White - 094 Gengar_739
+  - first:
+      213: 4968130671717841889
+    second: DS DSi - Pokemon Black White - 094 Gengar_740
+  - first:
+      213: -2182259560717693841
+    second: DS DSi - Pokemon Black White - 094 Gengar_741
+  - first:
+      213: -8634461847450936146
+    second: DS DSi - Pokemon Black White - 094 Gengar_742
+  - first:
+      213: -2138772770495446173
+    second: DS DSi - Pokemon Black White - 094 Gengar_743
+  - first:
+      213: -7252712645489271978
+    second: DS DSi - Pokemon Black White - 094 Gengar_744
+  - first:
+      213: 7035121552688867496
+    second: DS DSi - Pokemon Black White - 094 Gengar_745
+  - first:
+      213: -5811207175641674195
+    second: DS DSi - Pokemon Black White - 094 Gengar_746
+  - first:
+      213: 5534434377055510123
+    second: DS DSi - Pokemon Black White - 094 Gengar_747
+  - first:
+      213: -3857397232483008705
+    second: DS DSi - Pokemon Black White - 094 Gengar_748
+  - first:
+      213: -3293065929740532596
+    second: DS DSi - Pokemon Black White - 094 Gengar_749
+  - first:
+      213: 7803441795108946042
+    second: DS DSi - Pokemon Black White - 094 Gengar_750
+  - first:
+      213: 3658539117142725615
+    second: DS DSi - Pokemon Black White - 094 Gengar_751
+  - first:
+      213: 643794072077537852
+    second: DS DSi - Pokemon Black White - 094 Gengar_752
+  - first:
+      213: -3990657513697287941
+    second: DS DSi - Pokemon Black White - 094 Gengar_753
+  - first:
+      213: -124622981267105257
+    second: DS DSi - Pokemon Black White - 094 Gengar_754
+  - first:
+      213: 5244484102835786631
+    second: DS DSi - Pokemon Black White - 094 Gengar_755
+  - first:
+      213: -8592365206739877106
+    second: DS DSi - Pokemon Black White - 094 Gengar_756
+  - first:
+      213: 7718014821549436890
+    second: DS DSi - Pokemon Black White - 094 Gengar_757
+  - first:
+      213: 2691091077440853666
+    second: DS DSi - Pokemon Black White - 094 Gengar_758
+  - first:
+      213: 3922068319822576496
+    second: DS DSi - Pokemon Black White - 094 Gengar_759
+  - first:
+      213: -7898133341744006852
+    second: DS DSi - Pokemon Black White - 094 Gengar_760
+  - first:
+      213: -4860015372981380777
+    second: DS DSi - Pokemon Black White - 094 Gengar_761
+  - first:
+      213: 5234344474792516182
+    second: DS DSi - Pokemon Black White - 094 Gengar_762
+  - first:
+      213: -2321680712529668922
+    second: DS DSi - Pokemon Black White - 094 Gengar_763
+  - first:
+      213: -204251433286919040
+    second: DS DSi - Pokemon Black White - 094 Gengar_764
+  - first:
+      213: -8239606683236770486
+    second: DS DSi - Pokemon Black White - 094 Gengar_765
+  - first:
+      213: 2982102485372637521
+    second: DS DSi - Pokemon Black White - 094 Gengar_766
+  - first:
+      213: 5903337976786124691
+    second: DS DSi - Pokemon Black White - 094 Gengar_767
+  - first:
+      213: 5783023996835753465
+    second: DS DSi - Pokemon Black White - 094 Gengar_768
+  - first:
+      213: 7868088179059587375
+    second: DS DSi - Pokemon Black White - 094 Gengar_769
+  - first:
+      213: -381822680898062110
+    second: DS DSi - Pokemon Black White - 094 Gengar_770
+  - first:
+      213: -8963928758335488591
+    second: DS DSi - Pokemon Black White - 094 Gengar_771
+  - first:
+      213: -6814339772576262555
+    second: DS DSi - Pokemon Black White - 094 Gengar_772
+  - first:
+      213: 4003669815105379870
+    second: DS DSi - Pokemon Black White - 094 Gengar_773
+  - first:
+      213: 912236064568274280
+    second: DS DSi - Pokemon Black White - 094 Gengar_774
+  - first:
+      213: -3136411894884757045
+    second: DS DSi - Pokemon Black White - 094 Gengar_775
+  - first:
+      213: -5545770904071082813
+    second: DS DSi - Pokemon Black White - 094 Gengar_776
+  - first:
+      213: 3756655410588472579
+    second: DS DSi - Pokemon Black White - 094 Gengar_777
+  - first:
+      213: 6891907328446769247
+    second: DS DSi - Pokemon Black White - 094 Gengar_778
+  - first:
+      213: -2863514744847881764
+    second: DS DSi - Pokemon Black White - 094 Gengar_779
+  - first:
+      213: -7146474313002511814
+    second: DS DSi - Pokemon Black White - 094 Gengar_780
+  - first:
+      213: 4488859397189805863
+    second: DS DSi - Pokemon Black White - 094 Gengar_781
+  - first:
+      213: 5239804199756085311
+    second: DS DSi - Pokemon Black White - 094 Gengar_782
+  - first:
+      213: 6686157235044292009
+    second: DS DSi - Pokemon Black White - 094 Gengar_783
+  - first:
+      213: 5903087495822238041
+    second: DS DSi - Pokemon Black White - 094 Gengar_784
+  - first:
+      213: -4579202400025226787
+    second: DS DSi - Pokemon Black White - 094 Gengar_785
+  - first:
+      213: -1138059736258800968
+    second: DS DSi - Pokemon Black White - 094 Gengar_786
+  - first:
+      213: 5602579472749606676
+    second: DS DSi - Pokemon Black White - 094 Gengar_787
+  - first:
+      213: -1837867654808304361
+    second: DS DSi - Pokemon Black White - 094 Gengar_788
+  - first:
+      213: -9112253112982868516
+    second: DS DSi - Pokemon Black White - 094 Gengar_789
+  - first:
+      213: -8662631856265572219
+    second: DS DSi - Pokemon Black White - 094 Gengar_790
+  - first:
+      213: -5272802380637008549
+    second: DS DSi - Pokemon Black White - 094 Gengar_791
+  - first:
+      213: -6964175099754520608
+    second: DS DSi - Pokemon Black White - 094 Gengar_792
+  - first:
+      213: 3759325504700308110
+    second: DS DSi - Pokemon Black White - 094 Gengar_793
+  - first:
+      213: 5998607345888748020
+    second: DS DSi - Pokemon Black White - 094 Gengar_794
+  - first:
+      213: -4945967267991497316
+    second: DS DSi - Pokemon Black White - 094 Gengar_795
+  - first:
+      213: 5783191865135796048
+    second: DS DSi - Pokemon Black White - 094 Gengar_796
+  - first:
+      213: 2442226646164346603
+    second: DS DSi - Pokemon Black White - 094 Gengar_797
+  - first:
+      213: -9134535368717114301
+    second: DS DSi - Pokemon Black White - 094 Gengar_798
+  - first:
+      213: -8431703631590199957
+    second: DS DSi - Pokemon Black White - 094 Gengar_799
+  - first:
+      213: 3680545974715654945
+    second: DS DSi - Pokemon Black White - 094 Gengar_800
+  - first:
+      213: 7351320943009926461
+    second: DS DSi - Pokemon Black White - 094 Gengar_801
+  - first:
+      213: -7259305936251824191
+    second: DS DSi - Pokemon Black White - 094 Gengar_802
+  - first:
+      213: -8248635564987147764
+    second: DS DSi - Pokemon Black White - 094 Gengar_803
+  - first:
+      213: -7515566945794275614
+    second: DS DSi - Pokemon Black White - 094 Gengar_804
+  - first:
+      213: 6592128900439718302
+    second: DS DSi - Pokemon Black White - 094 Gengar_805
+  - first:
+      213: 8820745674560405783
+    second: DS DSi - Pokemon Black White - 094 Gengar_806
+  - first:
+      213: -1507187789279892027
+    second: DS DSi - Pokemon Black White - 094 Gengar_807
+  - first:
+      213: 801807793683233649
+    second: DS DSi - Pokemon Black White - 094 Gengar_808
+  - first:
+      213: 7624451345121600374
+    second: DS DSi - Pokemon Black White - 094 Gengar_809
+  - first:
+      213: 6308299266435054110
+    second: DS DSi - Pokemon Black White - 094 Gengar_810
+  - first:
+      213: 1825391544375389236
+    second: DS DSi - Pokemon Black White - 094 Gengar_811
+  - first:
+      213: -530964138310018982
+    second: DS DSi - Pokemon Black White - 094 Gengar_812
+  - first:
+      213: -7439246112051092321
+    second: DS DSi - Pokemon Black White - 094 Gengar_813
+  - first:
+      213: 3351164203276248547
+    second: DS DSi - Pokemon Black White - 094 Gengar_814
+  - first:
+      213: 2808887604274896627
+    second: DS DSi - Pokemon Black White - 094 Gengar_815
+  - first:
+      213: 3085399871976537766
+    second: DS DSi - Pokemon Black White - 094 Gengar_816
+  - first:
+      213: 6523848842107486131
+    second: DS DSi - Pokemon Black White - 094 Gengar_817
+  - first:
+      213: -6064811666540935544
+    second: DS DSi - Pokemon Black White - 094 Gengar_818
+  - first:
+      213: 6812450375137526658
+    second: DS DSi - Pokemon Black White - 094 Gengar_819
+  - first:
+      213: 1219242822865842156
+    second: DS DSi - Pokemon Black White - 094 Gengar_820
+  - first:
+      213: -2985541595570106640
+    second: DS DSi - Pokemon Black White - 094 Gengar_821
+  - first:
+      213: 1930702181132976955
+    second: DS DSi - Pokemon Black White - 094 Gengar_822
+  - first:
+      213: 1864304109279083287
+    second: DS DSi - Pokemon Black White - 094 Gengar_823
+  - first:
+      213: 8038460043763556803
+    second: DS DSi - Pokemon Black White - 094 Gengar_824
+  - first:
+      213: 514059407748696811
+    second: DS DSi - Pokemon Black White - 094 Gengar_825
+  - first:
+      213: 2586550307180176259
+    second: DS DSi - Pokemon Black White - 094 Gengar_826
+  - first:
+      213: -6762856888960447530
+    second: DS DSi - Pokemon Black White - 094 Gengar_827
+  - first:
+      213: 5559122429087134753
+    second: DS DSi - Pokemon Black White - 094 Gengar_828
+  - first:
+      213: -6107159369576172797
+    second: DS DSi - Pokemon Black White - 094 Gengar_829
+  - first:
+      213: -9066654019260295740
+    second: DS DSi - Pokemon Black White - 094 Gengar_830
+  - first:
+      213: -104473314617515841
+    second: DS DSi - Pokemon Black White - 094 Gengar_831
+  - first:
+      213: -7032197168194929534
+    second: DS DSi - Pokemon Black White - 094 Gengar_832
+  - first:
+      213: -6393768347595923239
+    second: DS DSi - Pokemon Black White - 094 Gengar_833
+  - first:
+      213: -8117708956419363631
+    second: DS DSi - Pokemon Black White - 094 Gengar_834
+  - first:
+      213: 2701813965901266169
+    second: DS DSi - Pokemon Black White - 094 Gengar_835
+  - first:
+      213: 7042776041293546655
+    second: DS DSi - Pokemon Black White - 094 Gengar_836
+  - first:
+      213: -8777120079794168161
+    second: DS DSi - Pokemon Black White - 094 Gengar_837
+  - first:
+      213: -8270770643357088509
+    second: DS DSi - Pokemon Black White - 094 Gengar_838
+  - first:
+      213: -3243372647808446367
+    second: DS DSi - Pokemon Black White - 094 Gengar_839
+  - first:
+      213: -8090161838238154380
+    second: DS DSi - Pokemon Black White - 094 Gengar_840
+  - first:
+      213: 6039376253012845971
+    second: DS DSi - Pokemon Black White - 094 Gengar_841
+  - first:
+      213: -4046178507710590578
+    second: DS DSi - Pokemon Black White - 094 Gengar_842
+  - first:
+      213: -8468670024416487750
+    second: DS DSi - Pokemon Black White - 094 Gengar_843
+  - first:
+      213: 1420159627416390744
+    second: DS DSi - Pokemon Black White - 094 Gengar_844
+  - first:
+      213: -1857899192118161175
+    second: DS DSi - Pokemon Black White - 094 Gengar_845
+  - first:
+      213: 8747120136616355887
+    second: DS DSi - Pokemon Black White - 094 Gengar_846
+  - first:
+      213: -7102441453644297345
+    second: DS DSi - Pokemon Black White - 094 Gengar_847
+  - first:
+      213: 1598065451301494975
+    second: DS DSi - Pokemon Black White - 094 Gengar_848
+  - first:
+      213: 5890820218805958318
+    second: DS DSi - Pokemon Black White - 094 Gengar_849
+  - first:
+      213: -5543497344414695745
+    second: DS DSi - Pokemon Black White - 094 Gengar_850
+  - first:
+      213: -5003512091278159657
+    second: DS DSi - Pokemon Black White - 094 Gengar_851
+  - first:
+      213: -5760009455959028514
+    second: DS DSi - Pokemon Black White - 094 Gengar_852
+  - first:
+      213: -4460118898142187836
+    second: DS DSi - Pokemon Black White - 094 Gengar_853
+  - first:
+      213: 8759152337095845648
+    second: DS DSi - Pokemon Black White - 094 Gengar_854
+  - first:
+      213: -7933487005750640670
+    second: DS DSi - Pokemon Black White - 094 Gengar_855
+  - first:
+      213: -5013245119400987251
+    second: DS DSi - Pokemon Black White - 094 Gengar_856
+  - first:
+      213: 6629993902476319932
+    second: DS DSi - Pokemon Black White - 094 Gengar_857
+  - first:
+      213: -8643563185102296647
+    second: DS DSi - Pokemon Black White - 094 Gengar_858
+  - first:
+      213: 6087281423059977657
+    second: DS DSi - Pokemon Black White - 094 Gengar_859
+  - first:
+      213: -8412107123103495126
+    second: DS DSi - Pokemon Black White - 094 Gengar_860
+  - first:
+      213: -2759833762398370836
+    second: DS DSi - Pokemon Black White - 094 Gengar_861
+  - first:
+      213: 8351770545157076650
+    second: DS DSi - Pokemon Black White - 094 Gengar_862
+  - first:
+      213: 8320307803909476018
+    second: DS DSi - Pokemon Black White - 094 Gengar_863
+  - first:
+      213: -2584814478070924651
+    second: DS DSi - Pokemon Black White - 094 Gengar_864
+  - first:
+      213: -5564452806195528675
+    second: DS DSi - Pokemon Black White - 094 Gengar_865
+  - first:
+      213: 8947829582485633122
+    second: DS DSi - Pokemon Black White - 094 Gengar_866
+  - first:
+      213: -1088914881799720778
+    second: DS DSi - Pokemon Black White - 094 Gengar_867
+  - first:
+      213: -5235130529519915492
+    second: DS DSi - Pokemon Black White - 094 Gengar_868
+  - first:
+      213: -8374994638134543287
+    second: DS DSi - Pokemon Black White - 094 Gengar_869
+  - first:
+      213: 6367410571791951792
+    second: DS DSi - Pokemon Black White - 094 Gengar_870
+  - first:
+      213: 9175493768113652051
+    second: DS DSi - Pokemon Black White - 094 Gengar_871
+  - first:
+      213: -3987638794509941627
+    second: DS DSi - Pokemon Black White - 094 Gengar_872
+  - first:
+      213: -1812816236798508369
+    second: DS DSi - Pokemon Black White - 094 Gengar_873
+  - first:
+      213: -4205914549094805039
+    second: DS DSi - Pokemon Black White - 094 Gengar_874
+  - first:
+      213: -5869374397591997879
+    second: DS DSi - Pokemon Black White - 094 Gengar_875
+  - first:
+      213: -3514050548475331209
+    second: DS DSi - Pokemon Black White - 094 Gengar_876
+  - first:
+      213: -3739286045144933887
+    second: DS DSi - Pokemon Black White - 094 Gengar_877
+  - first:
+      213: -2443567529348174140
+    second: DS DSi - Pokemon Black White - 094 Gengar_878
+  - first:
+      213: -3441971601038852972
+    second: DS DSi - Pokemon Black White - 094 Gengar_879
+  - first:
+      213: -8125838776750953078
+    second: DS DSi - Pokemon Black White - 094 Gengar_880
+  - first:
+      213: -4939508514622540015
+    second: DS DSi - Pokemon Black White - 094 Gengar_881
+  - first:
+      213: -5506216348449849529
+    second: DS DSi - Pokemon Black White - 094 Gengar_882
+  - first:
+      213: 3889352568738331182
+    second: DS DSi - Pokemon Black White - 094 Gengar_883
+  - first:
+      213: 8206519543355823443
+    second: DS DSi - Pokemon Black White - 094 Gengar_884
+  - first:
+      213: 6472218438237094522
+    second: DS DSi - Pokemon Black White - 094 Gengar_885
+  - first:
+      213: 5769960236477751778
+    second: DS DSi - Pokemon Black White - 094 Gengar_886
+  - first:
+      213: -7863796856756798884
+    second: DS DSi - Pokemon Black White - 094 Gengar_887
+  - first:
+      213: 2975315925636610801
+    second: DS DSi - Pokemon Black White - 094 Gengar_888
+  - first:
+      213: -2790990363552688576
+    second: DS DSi - Pokemon Black White - 094 Gengar_889
+  - first:
+      213: 9132723693265053546
+    second: DS DSi - Pokemon Black White - 094 Gengar_890
+  - first:
+      213: -8229810004088853945
+    second: DS DSi - Pokemon Black White - 094 Gengar_891
+  - first:
+      213: 7217761811840776830
+    second: DS DSi - Pokemon Black White - 094 Gengar_892
+  - first:
+      213: 2482187273106029213
+    second: DS DSi - Pokemon Black White - 094 Gengar_893
+  - first:
+      213: 7029702074390436599
+    second: DS DSi - Pokemon Black White - 094 Gengar_894
+  - first:
+      213: 2575896343194563011
+    second: DS DSi - Pokemon Black White - 094 Gengar_895
+  - first:
+      213: 700596733902919915
+    second: DS DSi - Pokemon Black White - 094 Gengar_896
+  - first:
+      213: 3383052055755471626
+    second: DS DSi - Pokemon Black White - 094 Gengar_897
+  - first:
+      213: 1137256859583940252
+    second: DS DSi - Pokemon Black White - 094 Gengar_898
+  - first:
+      213: 7010859735742027616
+    second: DS DSi - Pokemon Black White - 094 Gengar_899
+  - first:
+      213: -2482348863380917408
+    second: DS DSi - Pokemon Black White - 094 Gengar_900
+  - first:
+      213: -278097570071452227
+    second: DS DSi - Pokemon Black White - 094 Gengar_901
+  - first:
+      213: 8846647217453717379
+    second: DS DSi - Pokemon Black White - 094 Gengar_902
+  - first:
+      213: -8030151730960188322
+    second: DS DSi - Pokemon Black White - 094 Gengar_903
+  - first:
+      213: 4455272782386734183
+    second: DS DSi - Pokemon Black White - 094 Gengar_904
+  - first:
+      213: -6314577046746224817
+    second: DS DSi - Pokemon Black White - 094 Gengar_905
+  - first:
+      213: 7860167273917681153
+    second: DS DSi - Pokemon Black White - 094 Gengar_906
+  - first:
+      213: 3786533888969506549
+    second: DS DSi - Pokemon Black White - 094 Gengar_907
+  - first:
+      213: 7083048219048126572
+    second: DS DSi - Pokemon Black White - 094 Gengar_908
+  - first:
+      213: 627057848159686278
+    second: DS DSi - Pokemon Black White - 094 Gengar_909
+  - first:
+      213: 3631536729142738986
+    second: DS DSi - Pokemon Black White - 094 Gengar_910
+  - first:
+      213: -3397328586107312588
+    second: DS DSi - Pokemon Black White - 094 Gengar_911
+  - first:
+      213: -7296978629753450665
+    second: DS DSi - Pokemon Black White - 094 Gengar_912
+  - first:
+      213: 6381172694629471585
+    second: DS DSi - Pokemon Black White - 094 Gengar_913
+  - first:
+      213: -1550374373599785229
+    second: DS DSi - Pokemon Black White - 094 Gengar_914
+  - first:
+      213: 3787609960930305307
+    second: DS DSi - Pokemon Black White - 094 Gengar_915
+  - first:
+      213: -6704112096583340219
+    second: DS DSi - Pokemon Black White - 094 Gengar_916
+  - first:
+      213: 1542600931687945402
+    second: DS DSi - Pokemon Black White - 094 Gengar_917
+  - first:
+      213: -449711142885208087
+    second: DS DSi - Pokemon Black White - 094 Gengar_918
+  - first:
+      213: -5412452081282722114
+    second: DS DSi - Pokemon Black White - 094 Gengar_919
+  - first:
+      213: 2371873714510613210
+    second: DS DSi - Pokemon Black White - 094 Gengar_920
+  - first:
+      213: -2081077333971386283
+    second: DS DSi - Pokemon Black White - 094 Gengar_921
+  - first:
+      213: 932138532125169883
+    second: DS DSi - Pokemon Black White - 094 Gengar_922
+  - first:
+      213: -6937224148652913478
+    second: DS DSi - Pokemon Black White - 094 Gengar_923
+  - first:
+      213: 72770290198950590
+    second: DS DSi - Pokemon Black White - 094 Gengar_924
+  - first:
+      213: -4889499494252670908
+    second: DS DSi - Pokemon Black White - 094 Gengar_925
+  - first:
+      213: 5564371914849652437
+    second: DS DSi - Pokemon Black White - 094 Gengar_926
+  - first:
+      213: -8765405302220274534
+    second: DS DSi - Pokemon Black White - 094 Gengar_927
+  - first:
+      213: 5890923951113108928
+    second: DS DSi - Pokemon Black White - 094 Gengar_928
+  - first:
+      213: 5733399005746322919
+    second: DS DSi - Pokemon Black White - 094 Gengar_929
+  - first:
+      213: -6020109748949595895
+    second: DS DSi - Pokemon Black White - 094 Gengar_930
+  - first:
+      213: -3812833081848718713
+    second: DS DSi - Pokemon Black White - 094 Gengar_931
+  - first:
+      213: -8517547884529691688
+    second: DS DSi - Pokemon Black White - 094 Gengar_932
+  - first:
+      213: -2034361955721510783
+    second: DS DSi - Pokemon Black White - 094 Gengar_933
+  - first:
+      213: -4401204838743931806
+    second: DS DSi - Pokemon Black White - 094 Gengar_934
+  - first:
+      213: 8983679896973173205
+    second: DS DSi - Pokemon Black White - 094 Gengar_935
+  - first:
+      213: 2023871520400166676
+    second: DS DSi - Pokemon Black White - 094 Gengar_936
+  - first:
+      213: -1430654890666843668
+    second: DS DSi - Pokemon Black White - 094 Gengar_937
+  - first:
+      213: -3623244983485153199
+    second: DS DSi - Pokemon Black White - 094 Gengar_938
+  - first:
+      213: -501435049822949940
+    second: DS DSi - Pokemon Black White - 094 Gengar_939
+  - first:
+      213: -5090695435657217049
+    second: DS DSi - Pokemon Black White - 094 Gengar_940
+  - first:
+      213: 3929553777441178522
+    second: DS DSi - Pokemon Black White - 094 Gengar_941
+  - first:
+      213: 2147142127043502789
+    second: DS DSi - Pokemon Black White - 094 Gengar_942
+  - first:
+      213: 8805140140716435851
+    second: DS DSi - Pokemon Black White - 094 Gengar_943
+  - first:
+      213: 8365690762930374675
+    second: DS DSi - Pokemon Black White - 094 Gengar_944
+  - first:
+      213: 4648408143714256505
+    second: DS DSi - Pokemon Black White - 094 Gengar_945
+  - first:
+      213: -2405876213097271372
+    second: DS DSi - Pokemon Black White - 094 Gengar_946
+  - first:
+      213: -2550622818723565381
+    second: DS DSi - Pokemon Black White - 094 Gengar_947
+  - first:
+      213: -7738505907162219994
+    second: DS DSi - Pokemon Black White - 094 Gengar_948
+  - first:
+      213: -1377740056720782106
+    second: DS DSi - Pokemon Black White - 094 Gengar_949
+  - first:
+      213: 8000625697548566992
+    second: DS DSi - Pokemon Black White - 094 Gengar_950
+  - first:
+      213: 2662210541420047779
+    second: DS DSi - Pokemon Black White - 094 Gengar_951
+  - first:
+      213: 5561157045664409896
+    second: DS DSi - Pokemon Black White - 094 Gengar_952
+  - first:
+      213: -5619345054155247430
+    second: DS DSi - Pokemon Black White - 094 Gengar_953
+  - first:
+      213: 3470714456744274653
+    second: DS DSi - Pokemon Black White - 094 Gengar_954
+  - first:
+      213: -6537925821086697402
+    second: DS DSi - Pokemon Black White - 094 Gengar_955
+  - first:
+      213: 8959600167215581126
+    second: DS DSi - Pokemon Black White - 094 Gengar_956
+  - first:
+      213: -4641616362261477383
+    second: DS DSi - Pokemon Black White - 094 Gengar_957
+  - first:
+      213: 2817393359224991318
+    second: DS DSi - Pokemon Black White - 094 Gengar_958
+  - first:
+      213: 7342037159499022330
+    second: DS DSi - Pokemon Black White - 094 Gengar_959
+  - first:
+      213: -3234960556747697315
+    second: DS DSi - Pokemon Black White - 094 Gengar_960
+  - first:
+      213: 1647755981880498013
+    second: DS DSi - Pokemon Black White - 094 Gengar_961
+  - first:
+      213: 588684528984139533
+    second: DS DSi - Pokemon Black White - 094 Gengar_962
+  - first:
+      213: -7448513924691197164
+    second: DS DSi - Pokemon Black White - 094 Gengar_963
+  - first:
+      213: 4555601633372166934
+    second: DS DSi - Pokemon Black White - 094 Gengar_964
+  - first:
+      213: -4829881234720341706
+    second: DS DSi - Pokemon Black White - 094 Gengar_965
+  - first:
+      213: -1946467659430853926
+    second: DS DSi - Pokemon Black White - 094 Gengar_966
+  - first:
+      213: 3383957090225497656
+    second: DS DSi - Pokemon Black White - 094 Gengar_967
+  - first:
+      213: -446125601538020315
+    second: DS DSi - Pokemon Black White - 094 Gengar_968
+  - first:
+      213: 2860540290175422758
+    second: DS DSi - Pokemon Black White - 094 Gengar_969
+  - first:
+      213: 4079008036884024927
+    second: DS DSi - Pokemon Black White - 094 Gengar_970
+  - first:
+      213: -1680179574875720912
+    second: DS DSi - Pokemon Black White - 094 Gengar_971
+  - first:
+      213: -7371167886431086670
+    second: DS DSi - Pokemon Black White - 094 Gengar_972
+  - first:
+      213: 4737078631336529853
+    second: DS DSi - Pokemon Black White - 094 Gengar_973
+  - first:
+      213: 5226687470505680431
+    second: DS DSi - Pokemon Black White - 094 Gengar_974
+  - first:
+      213: 9190863043656756875
+    second: DS DSi - Pokemon Black White - 094 Gengar_975
+  - first:
+      213: -2584654782360494374
+    second: DS DSi - Pokemon Black White - 094 Gengar_976
+  - first:
+      213: 2468141097429255797
+    second: DS DSi - Pokemon Black White - 094 Gengar_977
+  - first:
+      213: 7869900752379879804
+    second: DS DSi - Pokemon Black White - 094 Gengar_978
+  - first:
+      213: -1748550313642704139
+    second: DS DSi - Pokemon Black White - 094 Gengar_979
+  - first:
+      213: -6543030117173749350
+    second: DS DSi - Pokemon Black White - 094 Gengar_980
+  - first:
+      213: -797836999030141166
+    second: DS DSi - Pokemon Black White - 094 Gengar_981
+  - first:
+      213: 51145155433743482
+    second: DS DSi - Pokemon Black White - 094 Gengar_982
+  - first:
+      213: 2124735308357558494
+    second: DS DSi - Pokemon Black White - 094 Gengar_983
+  - first:
+      213: 1082247219730232371
+    second: DS DSi - Pokemon Black White - 094 Gengar_984
+  - first:
+      213: -7653332967631492096
+    second: DS DSi - Pokemon Black White - 094 Gengar_985
+  - first:
+      213: 182722159217690513
+    second: DS DSi - Pokemon Black White - 094 Gengar_986
+  - first:
+      213: -8348854496338891361
+    second: DS DSi - Pokemon Black White - 094 Gengar_987
+  - first:
+      213: -2834010617650661008
+    second: DS DSi - Pokemon Black White - 094 Gengar_988
+  - first:
+      213: 8321178772916972595
+    second: DS DSi - Pokemon Black White - 094 Gengar_989
+  - first:
+      213: 59913482589569266
+    second: DS DSi - Pokemon Black White - 094 Gengar_990
+  - first:
+      213: -107385411144030824
+    second: DS DSi - Pokemon Black White - 094 Gengar_991
+  - first:
+      213: 3658056545285596191
+    second: DS DSi - Pokemon Black White - 094 Gengar_992
+  - first:
+      213: -4110166715140892367
+    second: DS DSi - Pokemon Black White - 094 Gengar_993
+  - first:
+      213: 6317563960745479213
+    second: DS DSi - Pokemon Black White - 094 Gengar_994
+  - first:
+      213: 1068542973049575744
+    second: DS DSi - Pokemon Black White - 094 Gengar_995
+  - first:
+      213: -8679789102686180621
+    second: DS DSi - Pokemon Black White - 094 Gengar_996
+  - first:
+      213: 4943952931940372798
+    second: DS DSi - Pokemon Black White - 094 Gengar_997
+  - first:
+      213: 3315798465458411327
+    second: DS DSi - Pokemon Black White - 094 Gengar_998
+  - first:
+      213: 3701176235157511831
+    second: DS DSi - Pokemon Black White - 094 Gengar_999
+  - first:
+      213: -4587911531914854313
+    second: DS DSi - Pokemon Black White - 094 Gengar_1000
+  - first:
+      213: -8409099483160412081
+    second: DS DSi - Pokemon Black White - 094 Gengar_1001
+  - first:
+      213: -7296695251693915931
+    second: DS DSi - Pokemon Black White - 094 Gengar_1002
+  - first:
+      213: -8671623680004963150
+    second: DS DSi - Pokemon Black White - 094 Gengar_1003
+  - first:
+      213: 7854737044759402867
+    second: DS DSi - Pokemon Black White - 094 Gengar_1004
+  - first:
+      213: -9089491031151035369
+    second: DS DSi - Pokemon Black White - 094 Gengar_1005
+  - first:
+      213: -119872065159377277
+    second: DS DSi - Pokemon Black White - 094 Gengar_1006
+  - first:
+      213: 3338334237694754987
+    second: DS DSi - Pokemon Black White - 094 Gengar_1007
+  - first:
+      213: -3587928885655058884
+    second: DS DSi - Pokemon Black White - 094 Gengar_1008
+  - first:
+      213: -5106198464673533061
+    second: DS DSi - Pokemon Black White - 094 Gengar_1009
+  - first:
+      213: 3366103795857495102
+    second: DS DSi - Pokemon Black White - 094 Gengar_1010
+  - first:
+      213: -8635475784368274538
+    second: DS DSi - Pokemon Black White - 094 Gengar_1011
+  - first:
+      213: -7916277815638273052
+    second: DS DSi - Pokemon Black White - 094 Gengar_1012
+  - first:
+      213: -5863607930893128728
+    second: DS DSi - Pokemon Black White - 094 Gengar_1013
+  - first:
+      213: 7484352828211103383
+    second: DS DSi - Pokemon Black White - 094 Gengar_1014
+  - first:
+      213: 7068557332243294520
+    second: DS DSi - Pokemon Black White - 094 Gengar_1015
+  - first:
+      213: 4059768117634517129
+    second: DS DSi - Pokemon Black White - 094 Gengar_1016
+  - first:
+      213: -5967508267694015738
+    second: DS DSi - Pokemon Black White - 094 Gengar_1017
+  - first:
+      213: -5324303427631345133
+    second: DS DSi - Pokemon Black White - 094 Gengar_1018
+  - first:
+      213: -6945013626836131029
+    second: DS DSi - Pokemon Black White - 094 Gengar_1019
+  - first:
+      213: -5453133051199785458
+    second: DS DSi - Pokemon Black White - 094 Gengar_1020
+  - first:
+      213: -855619585725575882
+    second: DS DSi - Pokemon Black White - 094 Gengar_1021
+  - first:
+      213: 2841420192834459351
+    second: DS DSi - Pokemon Black White - 094 Gengar_1022
+  - first:
+      213: 7716463920213323580
+    second: DS DSi - Pokemon Black White - 094 Gengar_1023
+  - first:
+      213: -7496238242879411239
+    second: DS DSi - Pokemon Black White - 094 Gengar_1024
+  - first:
+      213: 7257883095756801106
+    second: DS DSi - Pokemon Black White - 094 Gengar_1025
+  - first:
+      213: -5715682374900338169
+    second: DS DSi - Pokemon Black White - 094 Gengar_1026
+  - first:
+      213: -7626097715692536844
+    second: DS DSi - Pokemon Black White - 094 Gengar_1027
+  - first:
+      213: 9109344943747588455
+    second: DS DSi - Pokemon Black White - 094 Gengar_1028
+  - first:
+      213: -664859579715296125
+    second: DS DSi - Pokemon Black White - 094 Gengar_1029
+  - first:
+      213: -1572132115232590447
+    second: DS DSi - Pokemon Black White - 094 Gengar_1030
+  - first:
+      213: 5620322582782204398
+    second: DS DSi - Pokemon Black White - 094 Gengar_1031
+  - first:
+      213: -4829247704641445187
+    second: DS DSi - Pokemon Black White - 094 Gengar_1032
+  - first:
+      213: 4152230075038056330
+    second: DS DSi - Pokemon Black White - 094 Gengar_1033
+  - first:
+      213: 935489450923619820
+    second: DS DSi - Pokemon Black White - 094 Gengar_1034
+  - first:
+      213: 5889672291396529980
+    second: DS DSi - Pokemon Black White - 094 Gengar_1035
+  - first:
+      213: 5610066403817650710
+    second: DS DSi - Pokemon Black White - 094 Gengar_1036
+  - first:
+      213: -1723312363071827347
+    second: DS DSi - Pokemon Black White - 094 Gengar_1037
+  - first:
+      213: -2954702858959588214
+    second: DS DSi - Pokemon Black White - 094 Gengar_1038
+  - first:
+      213: 4719669344294046763
+    second: DS DSi - Pokemon Black White - 094 Gengar_1039
+  - first:
+      213: -2763906196243720523
+    second: DS DSi - Pokemon Black White - 094 Gengar_1040
+  - first:
+      213: -6513463216578183558
+    second: DS DSi - Pokemon Black White - 094 Gengar_1041
+  - first:
+      213: 552744333117641553
+    second: DS DSi - Pokemon Black White - 094 Gengar_1042
+  - first:
+      213: -4029509332290546726
+    second: DS DSi - Pokemon Black White - 094 Gengar_1043
+  - first:
+      213: 2676075906403799979
+    second: DS DSi - Pokemon Black White - 094 Gengar_1044
+  - first:
+      213: 5550671675162935786
+    second: DS DSi - Pokemon Black White - 094 Gengar_1045
+  - first:
+      213: -2938670148885946912
+    second: DS DSi - Pokemon Black White - 094 Gengar_1046
+  - first:
+      213: -1348531139523786539
+    second: DS DSi - Pokemon Black White - 094 Gengar_1047
+  - first:
+      213: 3838656908002230150
+    second: DS DSi - Pokemon Black White - 094 Gengar_1048
+  - first:
+      213: -647112789228870311
+    second: DS DSi - Pokemon Black White - 094 Gengar_1049
+  - first:
+      213: 2306230512176822786
+    second: DS DSi - Pokemon Black White - 094 Gengar_1050
+  - first:
+      213: 6166334683480966936
+    second: DS DSi - Pokemon Black White - 094 Gengar_1051
+  - first:
+      213: 1534039890267885925
+    second: DS DSi - Pokemon Black White - 094 Gengar_1052
+  - first:
+      213: 4020151731569048286
+    second: DS DSi - Pokemon Black White - 094 Gengar_1053
+  - first:
+      213: 484231236160929638
+    second: DS DSi - Pokemon Black White - 094 Gengar_1054
+  - first:
+      213: -8977360360785564202
+    second: DS DSi - Pokemon Black White - 094 Gengar_1055
+  - first:
+      213: 4555950233965884019
+    second: DS DSi - Pokemon Black White - 094 Gengar_1056
+  - first:
+      213: 9014103994790166035
+    second: DS DSi - Pokemon Black White - 094 Gengar_1057
+  - first:
+      213: -1145455187933383828
+    second: DS DSi - Pokemon Black White - 094 Gengar_1058
+  - first:
+      213: 2813048853916730377
+    second: DS DSi - Pokemon Black White - 094 Gengar_1059
+  - first:
+      213: -8859470159930099303
+    second: DS DSi - Pokemon Black White - 094 Gengar_1060
+  - first:
+      213: -7944576560630683436
+    second: DS DSi - Pokemon Black White - 094 Gengar_1061
+  - first:
+      213: 6492493505622170275
+    second: DS DSi - Pokemon Black White - 094 Gengar_1062
+  - first:
+      213: -9171437037524864887
+    second: DS DSi - Pokemon Black White - 094 Gengar_1063
+  - first:
+      213: 3644244168169515136
+    second: DS DSi - Pokemon Black White - 094 Gengar_1064
+  - first:
+      213: -2230577274438593537
+    second: DS DSi - Pokemon Black White - 094 Gengar_1065
+  - first:
+      213: 946051723296740355
+    second: DS DSi - Pokemon Black White - 094 Gengar_1066
+  - first:
+      213: 70635452431036665
+    second: DS DSi - Pokemon Black White - 094 Gengar_1067
+  - first:
+      213: 6889446397968547520
+    second: DS DSi - Pokemon Black White - 094 Gengar_1068
+  - first:
+      213: 432899117140283369
+    second: DS DSi - Pokemon Black White - 094 Gengar_1069
+  - first:
+      213: -2950354414738025796
+    second: DS DSi - Pokemon Black White - 094 Gengar_1070
+  - first:
+      213: -5906855978226429319
+    second: DS DSi - Pokemon Black White - 094 Gengar_1071
+  - first:
+      213: 6567465314607091307
+    second: DS DSi - Pokemon Black White - 094 Gengar_1072
+  - first:
+      213: -2801318709973500398
+    second: DS DSi - Pokemon Black White - 094 Gengar_1073
+  - first:
+      213: 1648681610880944801
+    second: DS DSi - Pokemon Black White - 094 Gengar_1074
+  - first:
+      213: 2727886648713434344
+    second: DS DSi - Pokemon Black White - 094 Gengar_1075
+  - first:
+      213: 1877058609090838771
+    second: DS DSi - Pokemon Black White - 094 Gengar_1076
+  - first:
+      213: 4376865496349354667
+    second: DS DSi - Pokemon Black White - 094 Gengar_1077
+  - first:
+      213: 7107225213479367284
+    second: DS DSi - Pokemon Black White - 094 Gengar_1078
+  - first:
+      213: 1637479528227972463
+    second: DS DSi - Pokemon Black White - 094 Gengar_1079
+  - first:
+      213: 6126122464242034327
+    second: DS DSi - Pokemon Black White - 094 Gengar_1080
+  - first:
+      213: 5640529628442355798
+    second: DS DSi - Pokemon Black White - 094 Gengar_1081
+  - first:
+      213: -3154433769273163333
+    second: DS DSi - Pokemon Black White - 094 Gengar_1082
+  - first:
+      213: -4564047787591062841
+    second: DS DSi - Pokemon Black White - 094 Gengar_1083
+  - first:
+      213: 9055065683846945991
+    second: DS DSi - Pokemon Black White - 094 Gengar_1084
+  - first:
+      213: 3158870340513551871
+    second: DS DSi - Pokemon Black White - 094 Gengar_1085
+  - first:
+      213: 4556878122975683690
+    second: DS DSi - Pokemon Black White - 094 Gengar_1086
+  - first:
+      213: 871362950623769814
+    second: DS DSi - Pokemon Black White - 094 Gengar_1087
+  - first:
+      213: 2548615131195062636
+    second: DS DSi - Pokemon Black White - 094 Gengar_1088
+  - first:
+      213: -2225152426228861753
+    second: DS DSi - Pokemon Black White - 094 Gengar_1089
+  - first:
+      213: 5061854615467027820
+    second: DS DSi - Pokemon Black White - 094 Gengar_1090
+  - first:
+      213: 853053010800194030
+    second: DS DSi - Pokemon Black White - 094 Gengar_1091
+  - first:
+      213: -6374681089503121049
+    second: DS DSi - Pokemon Black White - 094 Gengar_1092
+  - first:
+      213: -3121152902481837919
+    second: DS DSi - Pokemon Black White - 094 Gengar_1093
+  - first:
+      213: 430226573448546983
+    second: DS DSi - Pokemon Black White - 094 Gengar_1094
+  - first:
+      213: -3690329495067480684
+    second: DS DSi - Pokemon Black White - 094 Gengar_1095
+  - first:
+      213: 2186208817391286591
+    second: DS DSi - Pokemon Black White - 094 Gengar_1096
+  - first:
+      213: 727371004553314681
+    second: DS DSi - Pokemon Black White - 094 Gengar_1097
+  - first:
+      213: 7974689130022987843
+    second: DS DSi - Pokemon Black White - 094 Gengar_1098
+  - first:
+      213: -4978229361176037834
+    second: DS DSi - Pokemon Black White - 094 Gengar_1099
+  - first:
+      213: 7469705541901583143
+    second: DS DSi - Pokemon Black White - 094 Gengar_1100
+  - first:
+      213: -668961485235898599
+    second: DS DSi - Pokemon Black White - 094 Gengar_1101
+  - first:
+      213: -8136383163059542712
+    second: DS DSi - Pokemon Black White - 094 Gengar_1102
+  - first:
+      213: -2446523116350273242
+    second: DS DSi - Pokemon Black White - 094 Gengar_1103
+  - first:
+      213: 2673151595622932463
+    second: DS DSi - Pokemon Black White - 094 Gengar_1104
+  - first:
+      213: -5458049349209144053
+    second: DS DSi - Pokemon Black White - 094 Gengar_1105
+  - first:
+      213: 698774696619779050
+    second: DS DSi - Pokemon Black White - 094 Gengar_1106
+  - first:
+      213: -8115169728126856911
+    second: DS DSi - Pokemon Black White - 094 Gengar_1107
+  - first:
+      213: -4274501780840037766
+    second: DS DSi - Pokemon Black White - 094 Gengar_1108
+  - first:
+      213: 969223880878601814
+    second: DS DSi - Pokemon Black White - 094 Gengar_1109
+  - first:
+      213: -7038610779250278251
+    second: DS DSi - Pokemon Black White - 094 Gengar_1110
+  - first:
+      213: 5209318597866106363
+    second: DS DSi - Pokemon Black White - 094 Gengar_1111
+  - first:
+      213: 2505580499850895811
+    second: DS DSi - Pokemon Black White - 094 Gengar_1112
+  - first:
+      213: -8110857341493145672
+    second: DS DSi - Pokemon Black White - 094 Gengar_1113
+  - first:
+      213: 8092757466645387850
+    second: DS DSi - Pokemon Black White - 094 Gengar_1114
+  - first:
+      213: -5728030133190503132
+    second: DS DSi - Pokemon Black White - 094 Gengar_1115
+  - first:
+      213: 8717241232991057299
+    second: DS DSi - Pokemon Black White - 094 Gengar_1116
+  - first:
+      213: 7662393383356473133
+    second: DS DSi - Pokemon Black White - 094 Gengar_1117
+  - first:
+      213: 3986198643132618568
+    second: DS DSi - Pokemon Black White - 094 Gengar_1118
+  - first:
+      213: 8865434644652133750
+    second: DS DSi - Pokemon Black White - 094 Gengar_1119
+  - first:
+      213: -3298326732983771630
+    second: DS DSi - Pokemon Black White - 094 Gengar_1120
+  - first:
+      213: 1541719649923740046
+    second: DS DSi - Pokemon Black White - 094 Gengar_1121
+  - first:
+      213: 975653683684767310
+    second: DS DSi - Pokemon Black White - 094 Gengar_1122
+  - first:
+      213: 5965643536625540421
+    second: DS DSi - Pokemon Black White - 094 Gengar_1123
+  - first:
+      213: -1614428820963778002
+    second: DS DSi - Pokemon Black White - 094 Gengar_1124
+  - first:
+      213: -1608852308140217546
+    second: DS DSi - Pokemon Black White - 094 Gengar_1125
+  - first:
+      213: 3779325206260402770
+    second: DS DSi - Pokemon Black White - 094 Gengar_1126
+  - first:
+      213: 205755646957346880
+    second: DS DSi - Pokemon Black White - 094 Gengar_1127
+  - first:
+      213: 4795021405342475347
+    second: DS DSi - Pokemon Black White - 094 Gengar_1128
+  - first:
+      213: 8402320750990478666
+    second: DS DSi - Pokemon Black White - 094 Gengar_1129
+  - first:
+      213: -3841772860085268752
+    second: DS DSi - Pokemon Black White - 094 Gengar_1130
+  - first:
+      213: 4866903852175772070
+    second: DS DSi - Pokemon Black White - 094 Gengar_1131
+  - first:
+      213: -2261184434249300259
+    second: DS DSi - Pokemon Black White - 094 Gengar_1132
+  - first:
+      213: 2586167957709563406
+    second: DS DSi - Pokemon Black White - 094 Gengar_1133
+  - first:
+      213: 1551338124630717118
+    second: DS DSi - Pokemon Black White - 094 Gengar_1134
+  - first:
+      213: 6037820762906931257
+    second: DS DSi - Pokemon Black White - 094 Gengar_1135
+  - first:
+      213: -6441961669174828146
+    second: DS DSi - Pokemon Black White - 094 Gengar_1136
+  - first:
+      213: -3904852916498903218
+    second: DS DSi - Pokemon Black White - 094 Gengar_1137
+  - first:
+      213: -6177677827998191581
+    second: DS DSi - Pokemon Black White - 094 Gengar_1138
+  - first:
+      213: -4309176255410772615
+    second: DS DSi - Pokemon Black White - 094 Gengar_1139
+  - first:
+      213: 785924542875040807
+    second: DS DSi - Pokemon Black White - 094 Gengar_1140
+  - first:
+      213: 1173902849338132333
+    second: DS DSi - Pokemon Black White - 094 Gengar_1141
+  - first:
+      213: 5994333970327038439
+    second: DS DSi - Pokemon Black White - 094 Gengar_1142
+  - first:
+      213: -4476052247492548421
+    second: DS DSi - Pokemon Black White - 094 Gengar_1143
+  - first:
+      213: 1693949238112685858
+    second: DS DSi - Pokemon Black White - 094 Gengar_1144
+  - first:
+      213: -2402403621936617054
+    second: DS DSi - Pokemon Black White - 094 Gengar_1145
+  - first:
+      213: 3804111938078767701
+    second: DS DSi - Pokemon Black White - 094 Gengar_1146
+  - first:
+      213: -6566786754018678377
+    second: DS DSi - Pokemon Black White - 094 Gengar_1147
+  - first:
+      213: -6172985771007567262
+    second: DS DSi - Pokemon Black White - 094 Gengar_1148
+  - first:
+      213: 2264542753992999265
+    second: DS DSi - Pokemon Black White - 094 Gengar_1149
+  - first:
+      213: 9020591625476694858
+    second: DS DSi - Pokemon Black White - 094 Gengar_1150
+  - first:
+      213: 2412864315936500406
+    second: DS DSi - Pokemon Black White - 094 Gengar_1151
+  - first:
+      213: -8636975269590930845
+    second: DS DSi - Pokemon Black White - 094 Gengar_1152
+  - first:
+      213: -6784030585454451765
+    second: DS DSi - Pokemon Black White - 094 Gengar_1153
+  - first:
+      213: 3360891672018089950
+    second: DS DSi - Pokemon Black White - 094 Gengar_1154
+  - first:
+      213: -7033535812808792906
+    second: DS DSi - Pokemon Black White - 094 Gengar_1155
+  - first:
+      213: 7793488070340713523
+    second: DS DSi - Pokemon Black White - 094 Gengar_1156
+  - first:
+      213: -5813106079789183723
+    second: DS DSi - Pokemon Black White - 094 Gengar_1157
+  - first:
+      213: -4301021432562773336
+    second: DS DSi - Pokemon Black White - 094 Gengar_1158
+  - first:
+      213: -8603788261074637743
+    second: DS DSi - Pokemon Black White - 094 Gengar_1159
+  - first:
+      213: 8056553965260331435
+    second: DS DSi - Pokemon Black White - 094 Gengar_1160
+  - first:
+      213: -392281860875708473
+    second: DS DSi - Pokemon Black White - 094 Gengar_1161
+  - first:
+      213: 6831018668968564851
+    second: DS DSi - Pokemon Black White - 094 Gengar_1162
+  - first:
+      213: -4793594116569430827
+    second: DS DSi - Pokemon Black White - 094 Gengar_1163
+  - first:
+      213: 2866368651174534520
+    second: DS DSi - Pokemon Black White - 094 Gengar_1164
+  - first:
+      213: 6699315842770699377
+    second: DS DSi - Pokemon Black White - 094 Gengar_1165
+  - first:
+      213: 7048473137336855397
+    second: DS DSi - Pokemon Black White - 094 Gengar_1166
+  - first:
+      213: -1103476096315490164
+    second: DS DSi - Pokemon Black White - 094 Gengar_1167
+  - first:
+      213: -744243997744988219
+    second: DS DSi - Pokemon Black White - 094 Gengar_1168
+  - first:
+      213: 7933711577162974276
+    second: DS DSi - Pokemon Black White - 094 Gengar_1169
+  - first:
+      213: 2948312540537129002
+    second: DS DSi - Pokemon Black White - 094 Gengar_1170
+  - first:
+      213: 783461899830040872
+    second: DS DSi - Pokemon Black White - 094 Gengar_1171
+  - first:
+      213: 2541739708033733322
+    second: DS DSi - Pokemon Black White - 094 Gengar_1172
+  - first:
+      213: -791993455073632636
+    second: DS DSi - Pokemon Black White - 094 Gengar_1173
+  - first:
+      213: 1566206874081214002
+    second: DS DSi - Pokemon Black White - 094 Gengar_1174
+  - first:
+      213: -6391438322970071622
+    second: DS DSi - Pokemon Black White - 094 Gengar_1175
+  - first:
+      213: 5036043147646287421
+    second: DS DSi - Pokemon Black White - 094 Gengar_1176
+  - first:
+      213: 6509636772409225260
+    second: DS DSi - Pokemon Black White - 094 Gengar_1177
+  - first:
+      213: 7153193927244249992
+    second: DS DSi - Pokemon Black White - 094 Gengar_1178
+  - first:
+      213: 5890848121556195312
+    second: DS DSi - Pokemon Black White - 094 Gengar_1179
+  - first:
+      213: 4006977949668820987
+    second: DS DSi - Pokemon Black White - 094 Gengar_1180
+  - first:
+      213: 7953058712819926997
+    second: DS DSi - Pokemon Black White - 094 Gengar_1181
+  - first:
+      213: 734941374408887736
+    second: DS DSi - Pokemon Black White - 094 Gengar_1182
+  - first:
+      213: 394048318569781470
+    second: DS DSi - Pokemon Black White - 094 Gengar_1183
+  - first:
+      213: -7047886053319369442
+    second: DS DSi - Pokemon Black White - 094 Gengar_1184
+  - first:
+      213: -6713147955416369501
+    second: DS DSi - Pokemon Black White - 094 Gengar_1185
+  - first:
+      213: 787750362895344868
+    second: DS DSi - Pokemon Black White - 094 Gengar_1186
+  - first:
+      213: -2843189033220603248
+    second: DS DSi - Pokemon Black White - 094 Gengar_1187
+  - first:
+      213: -448597840279981967
+    second: DS DSi - Pokemon Black White - 094 Gengar_1188
+  - first:
+      213: 4257054148674266828
+    second: DS DSi - Pokemon Black White - 094 Gengar_1189
+  - first:
+      213: -7476177361401260830
+    second: DS DSi - Pokemon Black White - 094 Gengar_1190
+  - first:
+      213: -1401181889617779330
+    second: DS DSi - Pokemon Black White - 094 Gengar_1191
+  - first:
+      213: -3058014069682469787
+    second: DS DSi - Pokemon Black White - 094 Gengar_1192
+  - first:
+      213: 7002624922723670776
+    second: DS DSi - Pokemon Black White - 094 Gengar_1193
+  - first:
+      213: 1424988793700474462
+    second: DS DSi - Pokemon Black White - 094 Gengar_1194
+  - first:
+      213: -3567012743929785170
+    second: DS DSi - Pokemon Black White - 094 Gengar_1195
+  - first:
+      213: 4856350030389705664
+    second: DS DSi - Pokemon Black White - 094 Gengar_1196
+  - first:
+      213: 4844855393334705973
+    second: DS DSi - Pokemon Black White - 094 Gengar_1197
+  - first:
+      213: -7562073440356775067
+    second: DS DSi - Pokemon Black White - 094 Gengar_1198
+  - first:
+      213: -5996282547616241798
+    second: DS DSi - Pokemon Black White - 094 Gengar_1199
+  - first:
+      213: -8102016409995559938
+    second: DS DSi - Pokemon Black White - 094 Gengar_1200
+  - first:
+      213: -7957906955478429653
+    second: DS DSi - Pokemon Black White - 094 Gengar_1201
+  - first:
+      213: -2871753866818058921
+    second: DS DSi - Pokemon Black White - 094 Gengar_1202
+  - first:
+      213: 7783961593182812522
+    second: DS DSi - Pokemon Black White - 094 Gengar_1203
+  - first:
+      213: 434208257439923134
+    second: DS DSi - Pokemon Black White - 094 Gengar_1204
+  - first:
+      213: 5260918598115635508
+    second: DS DSi - Pokemon Black White - 094 Gengar_1205
+  - first:
+      213: 9115575123215275742
+    second: DS DSi - Pokemon Black White - 094 Gengar_1206
+  - first:
+      213: -3839267898089840394
+    second: DS DSi - Pokemon Black White - 094 Gengar_1207
+  - first:
+      213: -6245949845422357151
+    second: DS DSi - Pokemon Black White - 094 Gengar_1208
+  - first:
+      213: -1392277351405652005
+    second: DS DSi - Pokemon Black White - 094 Gengar_1209
+  - first:
+      213: 8502054586103324826
+    second: DS DSi - Pokemon Black White - 094 Gengar_1210
+  - first:
+      213: 6156942513619802822
+    second: DS DSi - Pokemon Black White - 094 Gengar_1211
+  - first:
+      213: 2100436961109709797
+    second: DS DSi - Pokemon Black White - 094 Gengar_1212
+  - first:
+      213: 7987852896085467171
+    second: DS DSi - Pokemon Black White - 094 Gengar_1213
+  - first:
+      213: -3625219415906345140
+    second: DS DSi - Pokemon Black White - 094 Gengar_1214
+  - first:
+      213: 7153900265503555155
+    second: DS DSi - Pokemon Black White - 094 Gengar_1215
+  - first:
+      213: 8129417043460970987
+    second: DS DSi - Pokemon Black White - 094 Gengar_1216
+  - first:
+      213: -1311222028904817479
+    second: DS DSi - Pokemon Black White - 094 Gengar_1217
+  - first:
+      213: 1969700113131405649
+    second: DS DSi - Pokemon Black White - 094 Gengar_1218
+  - first:
+      213: -2089464070203163531
+    second: DS DSi - Pokemon Black White - 094 Gengar_1219
+  - first:
+      213: 7295519498014374558
+    second: DS DSi - Pokemon Black White - 094 Gengar_1220
+  - first:
+      213: -4248906121144558564
+    second: DS DSi - Pokemon Black White - 094 Gengar_1221
+  - first:
+      213: 7161634875409575876
+    second: DS DSi - Pokemon Black White - 094 Gengar_1222
+  - first:
+      213: 6537008056644900062
+    second: DS DSi - Pokemon Black White - 094 Gengar_1223
+  - first:
+      213: 4392427515018038596
+    second: DS DSi - Pokemon Black White - 094 Gengar_1224
+  - first:
+      213: -1925242535874030866
+    second: DS DSi - Pokemon Black White - 094 Gengar_1225
+  - first:
+      213: 8947890513244148590
+    second: DS DSi - Pokemon Black White - 094 Gengar_1226
+  - first:
+      213: 3313759047928345983
+    second: DS DSi - Pokemon Black White - 094 Gengar_1227
+  - first:
+      213: 4622832842149377321
+    second: DS DSi - Pokemon Black White - 094 Gengar_1228
+  - first:
+      213: -526999769176926002
+    second: DS DSi - Pokemon Black White - 094 Gengar_1229
+  - first:
+      213: -2288770369250538739
+    second: DS DSi - Pokemon Black White - 094 Gengar_1230
+  - first:
+      213: 2585848111178020565
+    second: DS DSi - Pokemon Black White - 094 Gengar_1231
+  - first:
+      213: -5206594113863724004
+    second: DS DSi - Pokemon Black White - 094 Gengar_1232
+  - first:
+      213: -2747384917453939030
+    second: DS DSi - Pokemon Black White - 094 Gengar_1233
+  - first:
+      213: -2643097322125483505
+    second: DS DSi - Pokemon Black White - 094 Gengar_1234
+  - first:
+      213: 4593376337882770493
+    second: DS DSi - Pokemon Black White - 094 Gengar_1235
+  - first:
+      213: -2496875775461742154
+    second: DS DSi - Pokemon Black White - 094 Gengar_1236
+  - first:
+      213: -2761348394856766748
+    second: DS DSi - Pokemon Black White - 094 Gengar_1237
+  - first:
+      213: -8884977155359673442
+    second: DS DSi - Pokemon Black White - 094 Gengar_1238
+  - first:
+      213: -6776364263599942397
+    second: DS DSi - Pokemon Black White - 094 Gengar_1239
+  - first:
+      213: -9177940317323351738
+    second: DS DSi - Pokemon Black White - 094 Gengar_1240
+  - first:
+      213: -3235144918012410929
+    second: DS DSi - Pokemon Black White - 094 Gengar_1241
+  - first:
+      213: 7217181413649839811
+    second: DS DSi - Pokemon Black White - 094 Gengar_1242
+  - first:
+      213: -7689268799181088995
+    second: DS DSi - Pokemon Black White - 094 Gengar_1243
+  - first:
+      213: -4027434153172717318
+    second: DS DSi - Pokemon Black White - 094 Gengar_1244
+  - first:
+      213: 5842201094180770433
+    second: DS DSi - Pokemon Black White - 094 Gengar_1245
+  - first:
+      213: -1777018740912570329
+    second: DS DSi - Pokemon Black White - 094 Gengar_1246
+  - first:
+      213: 8903899699864162562
+    second: DS DSi - Pokemon Black White - 094 Gengar_1247
+  - first:
+      213: -1382407214751739225
+    second: DS DSi - Pokemon Black White - 094 Gengar_1248
+  - first:
+      213: -8080682552994550831
+    second: DS DSi - Pokemon Black White - 094 Gengar_1249
+  - first:
+      213: 7788935656617329488
+    second: DS DSi - Pokemon Black White - 094 Gengar_1250
+  - first:
+      213: -1329231772713185261
+    second: DS DSi - Pokemon Black White - 094 Gengar_1251
+  - first:
+      213: -2406041458341007815
+    second: DS DSi - Pokemon Black White - 094 Gengar_1252
+  - first:
+      213: -7929131011851803027
+    second: DS DSi - Pokemon Black White - 094 Gengar_1253
+  - first:
+      213: 3818102620870722837
+    second: DS DSi - Pokemon Black White - 094 Gengar_1254
+  - first:
+      213: -5531928196719724213
+    second: DS DSi - Pokemon Black White - 094 Gengar_1255
+  - first:
+      213: 3150933603600837967
+    second: DS DSi - Pokemon Black White - 094 Gengar_1256
+  - first:
+      213: -2772634160651480249
+    second: DS DSi - Pokemon Black White - 094 Gengar_1257
+  - first:
+      213: -2663579054889940075
+    second: DS DSi - Pokemon Black White - 094 Gengar_1258
+  - first:
+      213: -5334450323621370281
+    second: DS DSi - Pokemon Black White - 094 Gengar_1259
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 0a10edd30499ccf4582e12284fc1796a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7176258042925309804
+    second: Poliwrath_0
+  - first:
+      213: 7597717035160734216
+    second: Poliwrath_1
+  - first:
+      213: 3193091052517206201
+    second: Poliwrath_2
+  - first:
+      213: 8112274011977286616
+    second: Poliwrath_3
+  - first:
+      213: -2714803855633912610
+    second: Poliwrath_4
+  - first:
+      213: 3536243712175965509
+    second: Poliwrath_5
+  - first:
+      213: 6588451494411699512
+    second: Poliwrath_6
+  - first:
+      213: 4589253397990297560
+    second: Poliwrath_7
+  - first:
+      213: -6727605789593572796
+    second: Poliwrath_8
+  - first:
+      213: 4471498191815072339
+    second: Poliwrath_9
+  - first:
+      213: -1632095586244081015
+    second: Poliwrath_10
+  - first:
+      213: 1532788499642675967
+    second: Poliwrath_11
+  - first:
+      213: -7814172048015344915
+    second: Poliwrath_12
+  - first:
+      213: -2549942184183744157
+    second: Poliwrath_13
+  - first:
+      213: -7007782734596249654
+    second: Poliwrath_14
+  - first:
+      213: 2429766826139906684
+    second: Poliwrath_15
+  - first:
+      213: -3717414387802835271
+    second: Poliwrath_16
+  - first:
+      213: 5015888915333481658
+    second: Poliwrath_17
+  - first:
+      213: 3772837151952353448
+    second: Poliwrath_18
+  - first:
+      213: -7004126874080919225
+    second: Poliwrath_19
+  - first:
+      213: -5775319060238991157
+    second: Poliwrath_20
+  - first:
+      213: -6531135605287278797
+    second: Poliwrath_21
+  - first:
+      213: 4544587213408994987
+    second: Poliwrath_22
+  - first:
+      213: 3909639509780245952
+    second: Poliwrath_23
+  - first:
+      213: -7811093226430848548
+    second: Poliwrath_24
+  - first:
+      213: 8808195298175874645
+    second: Poliwrath_25
+  - first:
+      213: -4017161174373399440
+    second: Poliwrath_26
+  - first:
+      213: 759026974893110519
+    second: Poliwrath_27
+  - first:
+      213: -2763848535456495238
+    second: Poliwrath_28
+  - first:
+      213: -7627028081014618183
+    second: Poliwrath_29
+  - first:
+      213: -3012249531129866737
+    second: Poliwrath_30
+  - first:
+      213: -469162746912532734
+    second: Poliwrath_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poliwrath_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc6416e644135ad0800000000000000
+      internalID: -2714803855633912610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poliwrath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f5a192ba0379360800000000000000
+      internalID: 7176258042925309804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poliwrath_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a80b89363807960800000000000000
+      internalID: 7597717035160734216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poliwrath_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b824c00563205c20800000000000000
+      internalID: 3193091052517206201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poliwrath_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d30a84bb36949070800000000000000
+      internalID: 8112274011977286616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poliwrath_5
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545057f9be2431130800000000000000
+      internalID: 3536243712175965509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poliwrath_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8350d402ab1ee6b50800000000000000
+      internalID: 6588451494411699512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poliwrath_7
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df477b86ad40bf30800000000000000
+      internalID: 4589253397990297560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poliwrath_8
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ae962cd2eb2a2a0800000000000000
+      internalID: -6727605789593572796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
